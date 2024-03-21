@@ -145,6 +145,7 @@ movie,processed_movie,Associated Music Genres
    Mean Streets (1973),mean streets,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Uptown girls (2003),uptown girls,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Corpse Bride (2005),corpse bride,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
+   Maze Runner,maze runner,
    Oliver & Company (1988),oliver & company,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    The Prestige (2006),the prestige,"acoustic,piano,chill,ambient,synth-pop,singer-songwriter,synthwave,retro,rock,indie-pop,downtempo,space,alternative,dark-ambient,trip-hop,electronic,indie"
    Ghost (1990),ghost,"acoustic,piano,folk,ambient,romantic,epic-fantasy,singer-songwriter,soundtrack,pop,rock,indie-pop,alternative,world-music,r-n-b,indie,soul"
@@ -270,12 +271,15 @@ movie,processed_movie,Associated Music Genres
    Trolls World Tour,trolls world tour,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    A Bronx Tale (1993),a bronx tale,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Mulan (2020),mulan,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
+   What's Eating Gilbert Grape (1993),what's eating gilbert grape,
+   Dragonball Evolution (2009),dragonball evolution,
    Tangled (2010),tangled,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Wonder (2017),wonder,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    Platoon (1986),platoon,"acoustic,piano,punk,patriotic,soundtrack,singer-songwriter,rock,indie-pop,alternative,metal,world-music,indie"
    Final Destination 3 (2006),final destination 3,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Robots (2005),robots,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Hellraiser,hellraiser,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
+   Barbie Mariposa,barbie mariposa,
    Talladega Nights: The Ballad of Ricky Bobby (2006),talladega nights: the ballad of ricky bobby,"edm,pop,pump-up,hip-hop,rock,dance,electronic"
    Secret Society Of Second Born Royals (2020),secret society of second born royals,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Fallen Angels (Do Lok Tin Si) (1995),fallen angels,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
@@ -283,33 +287,45 @@ movie,processed_movie,Associated Music Genres
    Whiplash (2014),whiplash,"jazz,piano,edm,funk,pop,indie-pop,pump-up,singer-songwriter,acoustic,trumpet,electronic,saxophone,alternative,blues,jazz-noir,hip-hop,rock,dance,indie,soul"
    The Adventures of Tintin (2011),the adventures of tintin,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Jerry Maguire (1996),jerry maguire,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Baahubali (Film Series),baahubali,
    Sexy Beast (2000),sexy beast,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    The Painted Veil (2006),the painted veil,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Hot Summer Nights (2017),hot summer nights,"piano,pop,indie-pop,folk,dubstep,singer-songwriter,grime,acoustic,reggae,trap,electronic,alternative,romantic,drum-and-bass,hip-hop,rock,r-n-b,indie,soul"
+   Fast Times at Ridgemont High (1982),fast times at ridgemont high,
    The Holiday (2006),the holiday,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
 "   Crazy, Stupid, Love (2011)","crazy, stupid, love","acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Guns Akimbo (2020),guns akimbo,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
+   DC Animated Movie Universe,dc animated movie universe,
    Spaceballs (1987),spaceballs,"acoustic,folk,ambient,chill,synth-pop,retro,synthwave,space,new-age,alternative,world-music,electronic,rock"
+   The Boys in The Band,the boys in the band,
    Anna Karenina (2012),anna karenina,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Seventh Seal (1957),the seventh seal,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
+   Isn't it Romantic? (2019),isn't it romantic?,
    Carlito's Way,carlito's way,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Elite Squad (2007),elite squad,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    Blow Out (1981),blow out,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
+   An Education (2009),an education,
    Love Exposure (2008),love exposure,"acoustic,piano,punk,dubstep,hard-rock,alternative,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
+   Suicide Room. The Hater (2020),suicide room. the hater,
    12 Suicidal Teens (2019),12 suicidal teens,"ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,chill,electronic,trip-hop"
    Doubt (2008),doubt,"acoustic,piano,chill,ambient,singer-songwriter,synthwave,rock,indie-pop,downtempo,alternative,dark-ambient,trip-hop,electronic,indie"
    Wild Things (1998),wild things,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    The Dirt (2019),the dirt,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    St. Elmo's Fire (1985),st. elmo's fire,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Parent Trap (1998),the parent trap,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
+   8 Mile (2002),8 mile,
    Ender's Game (2013),ender's game,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Someone Great,someone great,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Ted,ted,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Tuck Everlasting (2002),tuck everlasting,"acoustic,piano,folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,kids,world-music,alternative,upbeat,indie,fun"
+   The Matrix Trilogy (The Matrix),the matrix trilogy,
    High Plains Drifter (1973),high plains drifter,"acoustic,country,piano,chill,ambient,folk,blues,bluegrass,singer-songwriter,synthwave,rock,indie-pop,downtempo,alternative,dark-ambient,trip-hop,electronic,indie"
    National Lampoon's Vacation (1983),national lampoon's vacation,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   The Thing About Harry,the thing about harry,
    Kuch Kuch Hota Hai,kuch kuch hota hai,"acoustic,piano,pop,singer-songwriter,rock,indie-pop,alternative,dance,r-n-b,indie,musical-theatre,soul"
    While You Were Sleeping (1995),while you were sleeping,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Mona Lisa Smile (2003),mona lisa smile,
+   The Clique,the clique,
    Red (2010),red,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    Silver Linings Playbook (2012),silver linings playbook,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Assassination Nation (2018),assassination nation,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
@@ -321,8 +337,10 @@ movie,processed_movie,Associated Music Genres
    Brother Bear (2003),brother bear,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    The Warriors (1979),the warriors,"punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,chill,electronic"
    Sideways (2004),sideways,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   La Dolce Vita (1960),la dolce vita,
    Bonnie and Clyde,bonnie and clyde,"acoustic,country,folk,punk,reggae,dubstep,hard-rock,pop,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    Cats (2019),cats,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Who Am I- No System is Safe,who am i- no system is safe,
    Robin Hood: Prince of Thieves (1991),robin hood: prince of thieves,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Scream,scream,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    Baby Mama (2008),baby mama,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
@@ -338,25 +356,37 @@ movie,processed_movie,Associated Music Genres
    Godzilla,godzilla,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Clash of the Titans (1981),clash of the titans,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
    The Darkest Minds (2018),the darkest minds,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
+   The Adventures of Milo and Otis (1986),the adventures of milo and otis,
    Blow (2001),blow,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Gremlins (1984),gremlins,"darkwave,folk,ambient,metal,soundtrack,epic-fantasy,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
    BASEketball (1998),baseketball,"edm,pop,pump-up,hip-hop,rock,dance,electronic"
    Night At The Museum (Franchise),night at the museum,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    Sin City (2005),sin city,"reggae,ambient,dubstep,synthwave,trap,drum-and-bass,grime,hip-hop,dark-ambient,chill,electronic"
+   Tropa de Elite,tropa de elite,
    Now and Then (1995),now and then,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Barbie of Swan Lake (2003),barbie of swan lake,
+   Red Shoes & The Seven Dwarfs (2019),red shoes & the seven dwarfs,
+   Y Tu Mamá También – Lust for Life,y tu mamá también – lust for life,
    Major League (1989),major league,"edm,pop,pump-up,hip-hop,rock,dance,electronic"
    Vice,vice,"punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,rock,metal,chill,electronic"
+   Night on Earth (1991),night on earth,
    Cinderella (2015),cinderella,"acoustic,indie,folk,ambient,piano,upbeat,children,pop,singer-songwriter,indie-pop,kids,new-age,alternative,world-music,rock,fun"
    Day of the Wacko (Dzień świra; 2002),day of the wacko,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Tombstone (1993),tombstone,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    The Babysitter,the babysitter,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
+   Pelíšky (1999),pelíšky,
+   Eurotrip (2004),eurotrip,
    Pinocchio (1940),pinocchio,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Welcome to Marwen,welcome to marwen,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Dunkirk (2017),dunkirk,"piano,epic,indie-pop,opera,rock,dubstep,singer-songwriter,acoustic,ambient,hard-rock,metal,world-music,electronic,classical,punk,drum-and-bass,alternative,symphony,indie"
    Ip Man,ip man,"acoustic,country,folk,punk,piano,dubstep,hard-rock,alternative,pop,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
    Ed Wood (1994),ed wood,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Dil Bechara (2020),dil bechara,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Do The Right Thing,do the right thing,
+   Inside Llewyn Davis (2013),inside llewyn davis,
    It Happened One Night (1934),it happened one night,"piano,epic,indie-pop,opera,dubstep,singer-songwriter,synthwave,dark-ambient,acoustic,ambient,chill,world-music,classical,electronic,alternative,drum-and-bass,rock,symphony,indie"
+   The Human Centipede,the human centipede,
+   Juno (2007),juno,
    Sonic the Hedgehog (2020),sonic the hedgehog,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Sicario,sicario,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    Repo! The Genetic Opera (2008),repo! the genetic opera,"pop,darkwave,synth-pop,singer-songwriter,synthwave,retro,noise,dark-ambient,ambient,space,metal,chill,electronic,industrial,dance,r-n-b,indie,musical-theatre,soul"
@@ -366,7 +396,9 @@ movie,processed_movie,Associated Music Genres
    Christopher Robin (2018),christopher robin,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Cruel Intentions (1999),cruel intentions,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Sabrina (1954),sabrina,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   The Descendants,the descendants,
    The High Note (2020),the high note,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
+   Quo Vado? (2016),quo vado?,
    Project Power (2020),project power,"punk,reggae,dubstep,hard-rock,ambient,synth-pop,retro,synthwave,trap,drum-and-bass,space,grime,hip-hop,rock,metal,chill,electronic"
    The Ten Commandments (1956),the ten commandments,"acoustic,country,folk,piano,ambient,pop,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
    A Bug's Life (1998),a bug's life,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
@@ -384,22 +416,27 @@ movie,processed_movie,Associated Music Genres
    Kingdom of Heaven (2005),kingdom of heaven,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Brooklyn (2015),brooklyn,"reggae,dubstep,trap,drum-and-bass,grime,hip-hop,electronic"
    Grease 2 (1982),grease 2,"jazz,funk,blues,pop,singer-songwriter,hip-hop,dance,r-n-b,indie,musical-theatre,soul"
+   Lemonade Mouth (2011),lemonade mouth,
    Secret Admirer (1985),secret admirer,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Armageddon (1998),armageddon,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
+   Dodgeball (2004),dodgeball,
    Saw (2004),saw,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    Children of Men (2006),children of men,"piano,indie-pop,rock,dubstep,synth-pop,singer-songwriter,synthwave,retro,acoustic,ambient,hard-rock,space,metal,chill,electronic,punk,drum-and-bass,alternative,indie"
    Sky High (2005),sky high,"folk,punk,dubstep,hard-rock,children,pop,singer-songwriter,kids,drum-and-bass,rock,metal,upbeat,electronic,fun"
    Four Lions (2010),four lions,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Hanna (2011),hanna,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Lady Macbeth (2016),lady macbeth,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Miss Stevens (2016),miss stevens,
    Before I Fall (2017),before i fall,"acoustic,piano,folk,ambient,chill,trip-hop,epic-fantasy,singer-songwriter,soundtrack,synthwave,rock,indie-pop,downtempo,alternative,dark-ambient,world-music,electronic,indie"
    Dear Nathan,dear nathan,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Death Of Stalin (2017),the death of stalin,"acoustic,piano,ambient,classical,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    Okja (2017),okja,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Flipped (2010),flipped,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Goat story,goat story,
    Happy Feet (2006-2011),happy feet,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    The Neon Demon (2016),the neon demon,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Truth Or Dare,truth or dare,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   Buffalo ‘66 (1998),buffalo ‘66,
    Jingle Jangle: A Christmas Journey (2020),jingle jangle: a christmas journey,"indie,folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,world-music,musical-theatre,alternative,dance,upbeat,r-n-b,rock,fun,soul"
    This Boy's Life (1993),this boy's life,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    13 going on 30 (2004),13 going on 30,"indie,folk,ambient,romantic,soundtrack,epic-fantasy,pop,singer-songwriter,alternative,world-music,r-n-b,rock,soul"
@@ -410,14 +447,22 @@ movie,processed_movie,Associated Music Genres
    Tetsuo: The Iron Man (1989),tetsuo: the iron man,"darkwave,ambient,synth-pop,retro,synthwave,space,dark-ambient,noise,metal,chill,electronic,industrial"
    Then Came You (2018),then came you,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Death Proof (2007),death proof,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
+   Blazing Saddles,blazing saddles,
    Time Freak (2018),time freak,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Pretty Baby (1978),pretty baby,
    Panic Room ( 2002 ),panic room,"piano,downtempo,indie-pop,rock,dubstep,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,hard-rock,metal,chill,electronic,punk,drum-and-bass,alternative,indie"
+   View Askewniverse,view askewniverse,
    Wonder Wheel (2017),wonder wheel,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Assassination of Jesse James by the Coward Robert Ford (2007),the assassination of jesse james by the coward robert ford,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
+   Van Wilder (2002),van wilder,
+   Flower (2017),flower,
    Cold Mountain ( 2003),cold mountain,"acoustic,indie,folk,ambient,piano,romantic,pop,singer-songwriter,indie-pop,new-age,alternative,world-music,r-n-b,rock,soul"
+   Mewtwo Strikes Back: Evolution (2019),mewtwo strikes back: evolution,
+   25 watts,25 watts,
    Florence Foster Jenkins (2016),florence foster jenkins,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    The Other Woman (2014),the other woman,"jazz,piano,funk,indie-pop,dubstep,singer-songwriter,grime,acoustic,reggae,trap,trumpet,electronic,saxophone,alternative,blues,jazz-noir,drum-and-bass,hip-hop,rock,indie,soul"
    Nanny McPhee (2005),nanny mcphee,"folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,world-music,alternative,upbeat,rock,fun"
+   High-Rise,high-rise,
    The Thing (2011),the thing,"darkwave,chill,ambient,synth-pop,retro,synthwave,downtempo,space,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    Super (2010),super,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    A Simple Favor (2018),a simple favor,"chill,reggae,ambient,dubstep,synthwave,trap,downtempo,drum-and-bass,grime,hip-hop,dark-ambient,trip-hop,electronic"
@@ -426,18 +471,25 @@ movie,processed_movie,Associated Music Genres
    Vabank (Juliusz Machulski),vabank,"reggae,dubstep,trap,drum-and-bass,grime,hip-hop,electronic"
    Undisputed,undisputed,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    Mary Shelley (2017),mary shelley,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
+   The Barbie Diaries,the barbie diaries,
+   Intouchables (2011),intouchables,
+   American Pie,american pie,
    Laura (1944),laura,"jazz,piano,funk,downtempo,indie-pop,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,trumpet,chill,electronic,saxophone,alternative,blues,jazz-noir,rock,indie,soul"
    The Blues Brothers (1980),the blues brothers,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Takers,takers,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    Menace II Society (1993),menace ii society,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Mallrats (1995),mallrats,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Planet Terror (2007),planet terror,"darkwave,punk,ambient,dubstep,hard-rock,drum-and-bass,dark-ambient,noise,rock,metal,electronic,industrial"
+   Muhsin Bey,muhsin bey,
+   Teen Beach Movie,teen beach movie,
+   Pain and Gain (2013),pain and gain,
    Transformers (Bayverse),transformers,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Cinderella Man (2005),cinderella man,"acoustic,country,folk,piano,pop,romantic,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Cool Runnings,cool runnings,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    Final Destination 2 (2003),final destination 2,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Pretty in Pink (1986),pretty in pink,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    RoboCop,robocop,"punk,reggae,dubstep,hard-rock,ambient,synth-pop,retro,synthwave,trap,drum-and-bass,space,grime,hip-hop,rock,metal,chill,electronic"
+   Clerks (1994),clerks,
    Bad News Bears (2005),bad news bears,"edm,pop,pump-up,hip-hop,rock,dance,electronic"
    Just Mercy (2019),just mercy,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Bad Teacher,bad teacher,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
@@ -448,8 +500,12 @@ movie,processed_movie,Associated Music Genres
    Be With You,be with you,"acoustic,piano,folk,ambient,romantic,epic-fantasy,singer-songwriter,soundtrack,pop,rock,indie-pop,alternative,world-music,r-n-b,indie,soul"
    Cloverfield (2008),cloverfield,"acoustic,darkwave,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,dark-ambient,noise,new-age,rock,metal,world-music,electronic,industrial"
    Pan (2015),pan,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
+   The Intern (2015),the intern,
    Da 5 Bloods (2020),da 5 bloods,"acoustic,indie,folk,ambient,piano,patriotic,punk,soundtrack,singer-songwriter,indie-pop,new-age,alternative,metal,world-music,rock"
    Alexander (2004),alexander,"acoustic,country,folk,punk,piano,dubstep,hard-rock,alternative,pop,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
+   What's Up with Love? (2002),what's up with love?,
+   She’s All That,she’s all that,
+   The Red Balloon (1956),the red balloon,
    Us and Them (2018),us and them,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Arthur and the Invisibles,arthur and the invisibles,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    The Stepford Wives (1975),the stepford wives,"darkwave,ambient,synth-pop,retro,synthwave,space,dark-ambient,noise,metal,chill,electronic,industrial"
@@ -459,27 +515,34 @@ movie,processed_movie,Associated Music Genres
    Gremlins 2: The New Batch,gremlins 2: the new batch,"darkwave,folk,ambient,metal,soundtrack,epic-fantasy,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
    Song of the South (1946),song of the south,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
    Half Baked (1998),half baked,"reggae,dubstep,trap,drum-and-bass,grime,hip-hop,electronic"
+   Un Chien Andalou (1929),un chien andalou,
    Love Wedding Repeat (2020),love wedding repeat,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Shoplifters,shoplifters,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Dear Zindagi,dear zindagi,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Spree,spree,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
+   Young Frankenstein,young frankenstein,
+   Show Me Love / Fucking Åmål (1998),show me love / fucking åmål,
    Trolls (film),trolls,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Clash of the Teetans,clash of the teetans,
    Frankenstein,frankenstein,"piano,pop,indie-pop,darkwave,folk,singer-songwriter,noise,dark-ambient,acoustic,ambient,metal,electronic,alternative,romantic,rock,r-n-b,indie,industrial,soul"
    Gone with the Wind (1939),gone with the wind,"acoustic,piano,folk,patriotic,punk,romantic,pop,singer-songwriter,soundtrack,rock,indie-pop,alternative,metal,world-music,r-n-b,indie,soul"
    The Willoughbys (2020),the willoughbys,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Frenzy (1972),frenzy,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    Phantom of the Paradise (1974),phantom of the paradise,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
+   Barbie in A Mermaid Tale,barbie in a mermaid tale,
    Yedi Bela Hüsnü (1982),yedi bela hüsnü,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Of Mice and Men (1992),of mice and men,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Pretty Woman (1990),pretty woman,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    The Boondock Saints (1999),the boondock saints,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
    Braveheart (1995),braveheart,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    Jawbreaker (1999),jawbreaker,"reggae,ambient,dubstep,synthwave,trap,drum-and-bass,grime,hip-hop,dark-ambient,chill,electronic"
+   Romy and Michele's High School Reunion (1997),romy and michele's high school reunion,
    Sabrina (1995),sabrina,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    25th Hour,25th hour,"punk,patriotic,alternative,soundtrack,rock,metal,world-music"
    My Fair Lady,my fair lady,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,musical-theatre,alternative,dance,upbeat,r-n-b,indie,fun,soul"
    Flight of the Phoenix (2004),flight of the phoenix,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Halloween (Rob Zombie remake/reboot timeline),halloween,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   Thirteen (2003),thirteen,
    Van Helsing (2004),van helsing,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Match Point (2005),match point,"piano,pop,indie-pop,folk,dubstep,singer-songwriter,synthwave,dark-ambient,acoustic,ambient,chill,electronic,alternative,romantic,drum-and-bass,rock,r-n-b,indie,soul"
    Public Enemies (2009),public enemies,"acoustic,country,folk,punk,reggae,dubstep,hard-rock,pop,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
@@ -490,6 +553,8 @@ movie,processed_movie,Associated Music Genres
    The Muppets (2011 film),the muppets,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    A Royal Affair (2012),a royal affair,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    The First Time (2012),the first time,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
+   Radio Rebel (2012),radio rebel,
+   Fack ju Göthe,fack ju göthe,
    Chef (2014),chef,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    The Big Short (2015),the big short,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Raggedy Ann & Andy: A Musical Adventure (1977),raggedy ann & andy: a musical adventure,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
@@ -497,12 +562,15 @@ movie,processed_movie,Associated Music Genres
    All Dogs Go to Heaven (1989),all dogs go to heaven,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    The Ant Bully,the ant bully,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    The Rescuers (1977),the rescuers,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Dorbees: Making Decisions,dorbees: making decisions,
    Monsters University (2013),monsters university,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Zathura,zathura,
    White Chicks (2004),white chicks,"reggae,dubstep,trap,drum-and-bass,grime,hip-hop,electronic"
    About Time (2013),about time,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
    The Perfect Man (2005),the perfect man,"darkwave,chill,ambient,synthwave,downtempo,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    The Last Unicorn (1982),the last unicorn,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    My Cousin Rachel,my cousin rachel,"piano,pop,downtempo,indie-pop,folk,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,chill,electronic,alternative,romantic,rock,r-n-b,indie,soul"
+   All About Lily Chou-Chou (2001),all about lily chou-chou,
    Valley Of The Dolls (1967),valley of the dolls,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Diary of a Wimpy Kid: The Long Haul,diary of a wimpy kid: the long haul,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    What If (2013),what if,"ambient,synthwave,downtempo,dark-ambient,chill,electronic,trip-hop"
@@ -512,7 +580,9 @@ movie,processed_movie,Associated Music Genres
    Raise the Red Lantern (1991),raise the red lantern,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Mr. Deeds (2002),mr. deeds,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Detroit Rock City (1999),detroit rock city,"acoustic,jazz,folk,ambient,funk,blues,pop,hip-hop,new-age,alternative,world-music,r-n-b,rock,soul"
+   G.I. Joe (film series),g.i. joe,
    Home Alone (1990),home alone,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
+   K-12 (2019),k-12,
    Happy Days (Neşeli Günler; 1978),happy days,"folk,pop,romantic,singer-songwriter,dance,r-n-b,indie,musical-theatre,soul"
    Arashi no Yoru ni,arashi no yoru ni,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    By the Sea (2015),by the sea,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
@@ -521,33 +591,43 @@ movie,processed_movie,Associated Music Genres
    The Priests (2015),the priests,"ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,chill,electronic,trip-hop"
    Yojimbo (1961),yojimbo,"acoustic,piano,punk,ambient,dubstep,hard-rock,alternative,singer-songwriter,synthwave,indie-pop,drum-and-bass,dark-ambient,rock,metal,chill,electronic,indie"
    Kabhi Khushi Kabhie Gham... (2001),kabhi khushi kabhie gham...,"acoustic,piano,folk,pop,romantic,singer-songwriter,rock,indie-pop,alternative,dance,r-n-b,indie,musical-theatre,soul"
+   Sunrise: A Song of Two Humans,sunrise: a song of two humans,
 "   Dhoom (Film Trilogy, 2004-2013)",dhoom,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+   Parenti serpenti (1992),parenti serpenti,
    Atlantics (2019),atlantics,"piano,pop,downtempo,indie-pop,folk,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,chill,electronic,alternative,romantic,rock,r-n-b,indie,soul"
    Feel the Beat (2020),feel the beat,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    My Cousin Vinny (1992),my cousin vinny,"reggae,dubstep,trap,drum-and-bass,grime,hip-hop,electronic"
    You Can't Take it With You (1938),you can't take it with you,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Moms' Night Out (2014),moms' night out,
    Charlie Bartlett,charlie bartlett,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Planes (2013),planes,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Shinbone Alley,shinbone alley,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
    A Girl Walks Home Alone at Night (2014),a girl walks home alone at night,"piano,pop,indie-pop,darkwave,folk,singer-songwriter,noise,dark-ambient,acoustic,ambient,metal,electronic,alternative,romantic,rock,r-n-b,indie,industrial,soul"
    Bull Durham (1988),bull durham,"folk,edm,romantic,pop,singer-songwriter,electronic,pump-up,hip-hop,rock,dance,r-n-b,indie,soul"
    Adventures in Babysitting,adventures in babysitting,"acoustic,folk,ambient,reggae,dubstep,trap,drum-and-bass,grime,hip-hop,new-age,alternative,world-music,electronic,rock"
+   Rams (2015),rams,
    The Book of Henry (2017),the book of henry,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
+"   Me, Myself & Irene (2000)","me, myself & irene",
    Tremors,tremors,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
+   Accattone (1961),accattone,
    The Dark Crystal (1982),the dark crystal,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
    The Light Between Oceans (2016),the light between oceans,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Bloodsport (1988),bloodsport,"acoustic,country,folk,punk,piano,dubstep,hard-rock,alternative,pop,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
    Jeepers Creepers,jeepers creepers,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
    Sing Street (2016),sing street,"acoustic,jazz,piano,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
+   Eye Candy,eye candy,
    An Officer and a Gentleman (1982),an officer and a gentleman,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Miss Peregrine's Home for Peculiar Children (2016),miss peregrine's home for peculiar children,"acoustic,indie,folk,ambient,piano,upbeat,children,pop,singer-songwriter,indie-pop,kids,new-age,alternative,world-music,rock,fun"
    Central Intelligence,central intelligence,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    Animalympics,animalympics,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
    Click,click,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
    Gigi (1958),gigi,"folk,pop,romantic,singer-songwriter,dance,r-n-b,indie,musical-theatre,soul"
+   A Long Way Down (2014),a long way down,
    Bill & Ted Face the Music (2020),bill & ted face the music,"acoustic,jazz,folk,ambient,funk,blues,pop,hip-hop,new-age,alternative,world-music,r-n-b,rock,soul"
    Kill The Messenger,kill the messenger,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    The Beguiled (2017),the beguiled,"piano,soundtrack,indie-pop,patriotic,dubstep,singer-songwriter,synthwave,dark-ambient,acoustic,ambient,metal,world-music,chill,electronic,punk,alternative,drum-and-bass,rock,indie"
+"   Maries Lied: Ich war, ich weiß nicht wo","maries lied: ich war, ich weiß nicht wo",
+   In America (2002),in america,
    The Secret Life of Walter Mitty (2013),the secret life of walter mitty,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Alpha Dog (2006),alpha dog,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    The Grey (2011),the grey,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
@@ -594,30 +674,42 @@ movie,processed_movie,Associated Music Genres
    The Perfect Score (2004),the perfect score,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Twister,twister,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synthwave,drum-and-bass,dark-ambient,new-age,rock,metal,world-music,electronic"
    Breaking Away (1979),breaking away,"acoustic,piano,edm,pop,singer-songwriter,rock,indie-pop,pump-up,hip-hop,alternative,dance,electronic,indie"
+   I vitelloni (1953),i vitelloni,
+   Zabuti (2019),zabuti,
    Never Cry Wolf,never cry wolf,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Midnight Runners (2017),midnight runners,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
+   Kibar Feyzo (1978),kibar feyzo,
+   Masal Şatosu,masal şatosu,
    Robin Hood: Men in Tights,robin hood: men in tights,"acoustic,indie,folk,ambient,pop,singer-songwriter,new-age,alternative,dance,world-music,r-n-b,rock,musical-theatre,soul"
    Matchstick Men (2003),matchstick men,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Millennium Mambo,millennium mambo,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Amarcord (1973),amarcord,
    Can't Hardly Wait (1998),can't hardly wait,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Crank,crank,"punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,chill,electronic"
+   Realityhigh,realityhigh,
    Time to Hunt (2020),time to hunt,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+   Hot Gimmick: Girl Meets Boy (2019),hot gimmick: girl meets boy,
    LOL (Laughing Out Loud),lol,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Kung Pow: Enter the Fist (2002),kung pow: enter the fist,"punk,dubstep,hard-rock,drum-and-bass,rock,metal,electronic"
    Sex Drive (2008),sex drive,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    3 Women (1977),3 women,"acoustic,piano,chill,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,downtempo,drum-and-bass,alternative,dark-ambient,trip-hop,electronic,indie"
    The Man Who Copied (2003),the man who copied,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
 "   Faster, Pussycat! Kill! Kill! (1965)","faster, pussycat! kill! kill!","punk,dubstep,hard-rock,drum-and-bass,rock,metal,electronic"
+   The World Of Apu (1959),the world of apu,
    A Trip To The Moon (1902),a trip to the moon,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Bloodshot (2020),bloodshot,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Ella Enchanted (2004),ella enchanted,"folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,world-music,alternative,upbeat,rock,fun"
    Rope (1948),rope,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    Chocolat,chocolat,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Hera Pheri (2000),hera pheri,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
+   Madre (2019),madre,
+   Fantozzi (1975),fantozzi,
    Dancer in the Dark (2000),dancer in the dark,"piano,pop,indie-pop,dubstep,singer-songwriter,grime,acoustic,reggae,trap,electronic,alternative,drum-and-bass,hip-hop,rock,dance,r-n-b,indie,musical-theatre,soul"
+   Gnomeo and Juliet,gnomeo and juliet,
    Major Payne,major payne,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    Mama,mama,"darkwave,folk,ambient,chill,dubstep,metal,soundtrack,epic-fantasy,synthwave,drum-and-bass,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
    Queen (2013),queen,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
+   La Ceremonie,la ceremonie,
    The Bad News Bears (1976),the bad news bears,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    Halloween (2018),halloween,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Austenland,austenland,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
@@ -626,20 +718,32 @@ movie,processed_movie,Associated Music Genres
    Song to Song (2017),song to song,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Korkusuz Korkak (1979),korkusuz korkak,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Twenty,twenty,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   3 Generations (2015),3 generations,
    Lorna Doone (2000),lorna doone,"acoustic,indie,folk,ambient,piano,romantic,pop,singer-songwriter,indie-pop,new-age,alternative,world-music,r-n-b,rock,soul"
+   Encino Man (1992),encino man,
    Safe Haven,safe haven,"piano,pop,indie-pop,folk,dubstep,singer-songwriter,synthwave,dark-ambient,acoustic,ambient,chill,electronic,alternative,romantic,drum-and-bass,rock,r-n-b,indie,soul"
    Phone Booth (2002),phone booth,"reggae,ambient,dubstep,synthwave,trap,drum-and-bass,grime,hip-hop,dark-ambient,chill,electronic"
+   Məhəllə,məhəllə,
    Ichi the Killer (2001),ichi the killer,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+   Klass (Zkažená mládež) (2007),klass,
+   Camp Rock (2008),camp rock,
+   Raw/Grave (2016),raw/grave,
+   Freier Fall - Free Fall,freier fall - free fall,
    Host (2020),host,"darkwave,chill,ambient,synthwave,downtempo,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    American Flyers (1985),american flyers,"acoustic,piano,edm,pop,singer-songwriter,rock,indie-pop,pump-up,hip-hop,alternative,dance,electronic,indie"
    Teen Wolf (1985),teen wolf,"indie,folk,ambient,romantic,soundtrack,epic-fantasy,pop,singer-songwriter,alternative,world-music,r-n-b,rock,soul"
    My Big Fat Greek Wedding (franchise),my big fat greek wedding,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Final Destination 5 (2011),final destination 5,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Money Monster (2016),money monster,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
+   Roxbury (1998),roxbury,
+   Wrong Turn 2,wrong turn 2,
    Unfriended (2014),unfriended,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    Crocodile Dundee,crocodile dundee,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Chappie (2015),chappie,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+"   Honey, I...","honey, i...",
+   The Naked Gun,the naked gun,
    Rocky,rocky,"folk,punk,r-n-b,dubstep,hard-rock,romantic,pop,singer-songwriter,drum-and-bass,rock,metal,electronic,indie,soul"
+   Transporter,transporter,
    Lady Driver (2020),lady driver,"edm,pop,pump-up,hip-hop,rock,dance,electronic"
    The Phantom Carriage (1921),the phantom carriage,"acoustic,darkwave,piano,folk,ambient,metal,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,noise,alternative,dark-ambient,world-music,electronic,indie,industrial"
    Beauty and the Beast (1946),beauty and the beast,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
@@ -649,6 +753,7 @@ movie,processed_movie,Associated Music Genres
    Circle (2015),circle,"punk,dubstep,hard-rock,drum-and-bass,rock,metal,electronic"
    The Leopard (1963),the leopard,"acoustic,piano,ambient,classical,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    Pink Flamingos (1972),pink flamingos,"reggae,dubstep,trap,drum-and-bass,grime,hip-hop,electronic"
+   Tři Oříšky Pro Popelku (1973),tři oříšky pro popelku,
    The Apple Dumpling Gang (1975),the apple dumpling gang,"acoustic,country,folk,alternative,children,bluegrass,blues,pop,singer-songwriter,kids,rock,upbeat,fun"
    Five Deadly Venoms (1978),five deadly venoms,"piano,downtempo,indie-pop,rock,dubstep,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,hard-rock,metal,chill,electronic,punk,drum-and-bass,alternative,indie"
    Suspiria (1977),suspiria,"acoustic,darkwave,piano,folk,ambient,metal,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,noise,alternative,dark-ambient,world-music,electronic,indie,industrial"
@@ -656,9 +761,11 @@ movie,processed_movie,Associated Music Genres
    Cracks,cracks,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
    The Pirates of Penzance (1983),the pirates of penzance,"folk,pop,romantic,singer-songwriter,dance,r-n-b,indie,musical-theatre,soul"
    Attack the Block (2011),attack the block,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
+   Botoks,botoks,
    New York Stories (1989),new york stories,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Return to Oz (1985),return to oz,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
    The Crow (1994),the crow,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+   Les nuites fauves (Savage Nights) (1992),les nuites fauves,
    Blue Streak (1999),blue streak,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    Casper (1995),casper,"folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,world-music,alternative,upbeat,rock,fun"
    The Faculty,the faculty,"darkwave,chill,ambient,synth-pop,retro,synthwave,downtempo,space,dark-ambient,noise,metal,trip-hop,electronic,industrial"
@@ -666,6 +773,8 @@ movie,processed_movie,Associated Music Genres
    Sleepers (1996),sleepers,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    The Stupids (1996),the stupids,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Superstar (1999),superstar,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   Thumbelina: A Magical Story (1993),thumbelina: a magical story,
+   The Brown Bunny (2004),the brown bunny,
    Cabin Fever,cabin fever,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
    Confessions of a Dangerous Mind (2002),confessions of a dangerous mind,"acoustic,country,folk,reggae,dubstep,pop,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,electronic,indie"
    Crash (2004),crash,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
@@ -681,6 +790,7 @@ movie,processed_movie,Associated Music Genres
    Heavenly Forest (2006),heavenly forest,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Hoot (2006),hoot,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    One Night with the King (2006),one night with the king,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
+   RV / Runaway Vacation (2006),rv / runaway vacation,
    Wild at Heart,wild at heart,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Violet & Daisy (2011),violet & daisy,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    We Bought A Zoo,we bought a zoo,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
@@ -695,14 +805,22 @@ movie,processed_movie,Associated Music Genres
    High Life (2019),high life,"acoustic,indie,folk,ambient,piano,darkwave,metal,singer-songwriter,indie-pop,noise,new-age,alternative,dark-ambient,world-music,electronic,rock,industrial"
    Misfit (2019),misfit,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
    Triple Frontier (2019),triple frontier,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
+   Bad Trip (2020),bad trip,
    Cats Don't Dance (1997),cats don't dance,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
    Hot Pursuit (2015),hot pursuit,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
+   Rock And Rule,rock and rule,
+   Foodfight!,foodfight!,
    Strange Magic (2015),strange magic,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Munna Bhai MBBS,munna bhai mbbs,
+"   The Way, Way Back (2013)","the way, way back",
    Last Holiday,last holiday,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   Les Visiteurs,les visiteurs,
    The Island (2005),the island,"punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,rock,metal,chill,electronic"
+   There Will Be Blood (2007),there will be blood,
    The Family Stone,the family stone,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Ittefaq,ittefaq,"acoustic,piano,punk,dubstep,hard-rock,alternative,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
    Eden Lake,eden lake,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   The Addams Family 2019,the addams family 2019,
    Alpha And Omega,alpha and omega,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Under the tuscan sun,under the tuscan sun,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Super 8 (2011),super 8,"chill,punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,downtempo,drum-and-bass,space,dark-ambient,rock,metal,trip-hop,electronic"
@@ -710,33 +828,54 @@ movie,processed_movie,Associated Music Genres
    Across the Universe (2007),across the universe,"acoustic,piano,folk,ambient,classical,epic,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,opera,alternative,world-music,indie,symphony"
    Sunny (2011-South Korean Movie),sunny,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Boyhood (2014),boyhood,"acoustic,piano,punk,patriotic,soundtrack,singer-songwriter,rock,indie-pop,alternative,metal,world-music,indie"
+   Dinner for Schmucks (2010),dinner for schmucks,
+   Halloweentown,halloweentown,
    12 Hour Shift (2020),12 hour shift,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    How to Be Single (2016),how to be single,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Expendables,expendables,
    Brother (1997),brother,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+"   Good Bye, Lenin! (2003)","good bye, lenin!",
    Along Came Polly (2004),along came polly,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Only You (1994),only you,"acoustic,piano,punk,r-n-b,dubstep,hard-rock,alternative,folk,romantic,pop,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie,soul"
+   Today is Spaceship Day,today is spaceship day,
+   Seven Days: Monday - Thursday,seven days: monday - thursday,
    1776 (1972),1776,"piano,pop,epic,indie-pop,opera,upbeat,folk,singer-songwriter,kids,acoustic,ambient,world-music,classical,fun,alternative,children,rock,symphony,indie"
    Fantasy Island,fantasy island,"darkwave,folk,ambient,chill,metal,trip-hop,soundtrack,epic-fantasy,synthwave,downtempo,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
+   Kogel-mogel,kogel-mogel,
+   American Graffiti (1973),american graffiti,
+   Scooby-Doo,scooby-doo,
    The Inheritance (1997),the inheritance,"acoustic,darkwave,piano,ambient,chill,metal,singer-songwriter,synthwave,rock,indie-pop,downtempo,noise,alternative,dark-ambient,trip-hop,electronic,indie,industrial"
+"   Roma, Open City (1945)","roma, open city",
    Abraham Lincoln: Vampire Hunter,abraham lincoln: vampire hunter,"darkwave,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,dark-ambient,noise,rock,metal,world-music,electronic,industrial"
+   The Perks of Being a Wallflower (2012),the perks of being a wallflower,
+   Ballet Shoes,ballet shoes,
    A Midsummer Night's Dream (1999),a midsummer night's dream,"indie,folk,ambient,romantic,soundtrack,epic-fantasy,pop,singer-songwriter,alternative,world-music,r-n-b,rock,soul"
    Marrowbone,marrowbone,"acoustic,indie,folk,ambient,piano,darkwave,metal,singer-songwriter,indie-pop,noise,new-age,alternative,dark-ambient,world-music,electronic,rock,industrial"
    The Lion in Winter (1968),the lion in winter,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    The Patriot (2000),the patriot,"piano,epic,indie-pop,opera,rock,dubstep,singer-songwriter,acoustic,ambient,hard-rock,metal,world-music,electronic,classical,punk,drum-and-bass,alternative,symphony,indie"
+   The Personal History of David Copperfield,the personal history of david copperfield,
    Cheaper by the Dozen (Franchise),cheaper by the dozen,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    The Princess Switch (2018),the princess switch,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003),interstella 5555: the 5tory of the 5ecret 5tar 5ystem,"acoustic,jazz,folk,ambient,funk,blues,pop,hip-hop,new-age,alternative,world-music,r-n-b,rock,soul"
+   Accepted (2006),accepted,
+   The House Bunny,the house bunny,
    The Outsiders (1983),the outsiders,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Artemis Fowl (2020),artemis fowl,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
+   Malibu’s Most Wanted (2003),malibu’s most wanted,
    Hollywood (miniserie),hollywood,"ambient,synth-pop,retro,synthwave,space,chill,electronic"
    Vikram Vedha,vikram vedha,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    The Adventures of Buratino (Priklyucheniya Buratino; 1976),the adventures of buratino,"acoustic,folk,ambient,children,pop,singer-songwriter,kids,world-music,new-age,alternative,upbeat,rock,fun"
    Brokeback Mountain (2005),brokeback mountain,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Monty Python's Life of Brian (1979),monty python's life of brian,
+   Romeo and Juliet: Sealed with a Kiss,romeo and juliet: sealed with a kiss,
    Love The Coopers,love the coopers,"indie,folk,ambient,romantic,soundtrack,epic-fantasy,pop,singer-songwriter,alternative,world-music,r-n-b,rock,soul"
+   Hana and Alice (2004),hana and alice,
    Death Note: Light Up the NEW World,death note: light up the new world,"piano,indie-pop,darkwave,dubstep,singer-songwriter,grime,noise,dark-ambient,acoustic,reggae,ambient,trap,metal,electronic,alternative,drum-and-bass,hip-hop,rock,indie,industrial"
    Stardust (2007 film),stardust,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
+   A Face in the Crowd (1957),a face in the crowd,
    Gangs of New York (2002),gangs of new york,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    The Gold Rush (1925),the gold rush,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
+   The King of Staten Island (2020),the king of staten island,
    Wanted (2008),wanted,"punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,chill,electronic"
    On the Rocks (2020),on the rocks,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Valley Girl (1983),valley girl,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
@@ -744,27 +883,43 @@ movie,processed_movie,Associated Music Genres
    Bacurau (2019),bacurau,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Closet monster,closet monster,"acoustic,piano,folk,ambient,chill,trip-hop,epic-fantasy,singer-songwriter,soundtrack,synthwave,rock,indie-pop,downtempo,alternative,dark-ambient,world-music,electronic,indie"
    Four Weddings and a Funeral (1994),four weddings and a funeral,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Re-Animated (2006),re-animated,
    Wilde (1997),wilde,"acoustic,country,folk,piano,pop,romantic,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Another Cinderella Story (2008),another cinderella story,
+   A Vida Invisível,a vida invisível,
    Pet (2016),pet,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   Jack and the Cuckoo-clock Heart,jack and the cuckoo-clock heart,
    Fear (1996),fear,"punk,dubstep,hard-rock,drum-and-bass,rock,metal,electronic"
    The Hours (2002),the hours,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   The Bromley Boys (2018),the bromley boys,
    The Philadelphia Story,the philadelphia story,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Happy Together,happy together,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Hoje Eu Quero Voltar Sozinho (The Way He Looks),hoje eu quero voltar sozinho,
    Little Women (2019),little women,"acoustic,piano,folk,children,pop,romantic,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,r-n-b,indie,fun,soul"
+   Ma Rainey's Black Bottom (2020),ma rainey's black bottom,
    It's Kind of a Funny Story (2010),it's kind of a funny story,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Hole (2001),the hole,"folk,ambient,chill,dubstep,soundtrack,epic-fantasy,synthwave,drum-and-bass,alternative,dark-ambient,world-music,electronic,rock"
 "   The Umbrellas of Cherbourg (Les Parapluies de Cherbourg, 1964)",the umbrellas of cherbourg,"acoustic,piano,folk,pop,romantic,singer-songwriter,rock,indie-pop,alternative,dance,r-n-b,indie,musical-theatre,soul"
    17 Again (2009),17 again,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
+   Carnal Knowledge (1971),carnal knowledge,
    27 Dresses (2008),27 dresses,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Liz and the Blue Bird (Liz to Aoi Tori),liz and the blue bird,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
+"   Merry Christmas, Mr. Lawrence","merry christmas, mr. lawrence",
    Blended (2014),blended,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    D.E.B.S. (2004),d.e.b.s.,"folk,punk,r-n-b,dubstep,hard-rock,romantic,pop,singer-songwriter,drum-and-bass,rock,metal,electronic,indie,soul"
+   The Leaves (ฺBai Mai Tee Plid Plew),the leaves,
+   Animal House,animal house,
    Mahabharat,mahabharat,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Knocked Up (2007),knocked up,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   Ocean's 8 (2018),ocean's 8,
 "   I Love You, Man (2009)","i love you, man","folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Monster (2003),monster,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,reggae,trap,drum-and-bass,grime,hip-hop,new-age,rock,metal,world-music,electronic"
    The Final Girls,the final girls,"folk,reggae,ambient,dubstep,epic-fantasy,soundtrack,trap,drum-and-bass,grime,hip-hop,alternative,world-music,electronic,rock"
+   Disney sleepy hollow.,disney sleepy hollow.,
    The world of Kanako (Kawaki),the world of kanako,"acoustic,piano,chill,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,downtempo,drum-and-bass,alternative,dark-ambient,trip-hop,electronic,indie"
+   Ken Park (2002),ken park,
+   Josie and the Pussycats (2001),josie and the pussycats,
+   Barbie and the 12 Dancing Princesses (2006),barbie and the 12 dancing princesses,
    This Is the End (2013),this is the end,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
    Small Time,small time,"reggae,dubstep,trap,drum-and-bass,grime,hip-hop,electronic"
    Being Charlie,being charlie,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
@@ -777,10 +932,16 @@ movie,processed_movie,Associated Music Genres
    The Martian (2015),the martian,"acoustic,indie,folk,ambient,piano,chill,synth-pop,singer-songwriter,synthwave,retro,indie-pop,space,new-age,alternative,world-music,electronic,rock"
    I killed my mother,i killed my mother,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Runaway Bride (1999),runaway bride,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   İstanbul Kanatlarımın Altında (1996),i̇stanbul kanatlarımın altında,
+   Bratz: The Movie (2007),bratz: the movie,
+   Dreamgirls (2006),dreamgirls,
+   The Five Year Engagement,the five year engagement,
    Stargate (1994),stargate,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    The Bling Ring (2013),the bling ring,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Snowden (2016),snowden,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Ferdinand (Olé el Viaje de Ferdinand),ferdinand,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Cinderela Pop,cinderela pop,
+   O Cavaleiro Didi e a Princesa Lili (2006),o cavaleiro didi e a princesa lili,
    From Prada to Nada (2011),from prada to nada,"acoustic,piano,punk,dubstep,hard-rock,alternative,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
    Barbie: Star Light Adventure,barbie: star light adventure,"folk,ambient,chill,children,pop,synth-pop,singer-songwriter,synthwave,retro,kids,space,upbeat,electronic,fun"
    Frankenweenie (2012),frankenweenie,"acoustic,piano,singer-songwriter,rock,indie-pop,alternative,indie"
@@ -793,9 +954,13 @@ movie,processed_movie,Associated Music Genres
    The Aftermath (2019),the aftermath,"darkwave,ambient,dubstep,synth-pop,retro,synthwave,space,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Becoming Jane (2007),becoming jane,"acoustic,country,folk,piano,pop,romantic,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Liar Liar (1997),liar liar,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
+   The Secret Life of Bees (2008),the secret life of bees,
    The Informer,the informer,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    WALL·E (2008),wall·e,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
+   That Thing You Do! (1996),that thing you do!,
    Snow White and the Seven Dwarfs (1937),snow white and the seven dwarfs,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
+   Mean Girls (2004),mean girls,
+   The Breakfast Club (1985),the breakfast club,
    Hercules (1997),hercules,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Parasite (2019),parasite,"darkwave,ambient,synth-pop,retro,synthwave,space,dark-ambient,noise,metal,chill,electronic,industrial"
    Madagascar (Franchise),madagascar,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
@@ -809,6 +974,7 @@ movie,processed_movie,Associated Music Genres
    10 Things I Hate About You (1999),10 things i hate about you,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Notebook (2004),the notebook,"acoustic,piano,punk,patriotic,soundtrack,singer-songwriter,rock,indie-pop,alternative,metal,world-music,indie"
    Rise of the Guardians (2012),rise of the guardians,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
+   Indiana Jones,indiana jones,
    Onward (2020),onward,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Star Trek (Kelvin Timeline),star trek,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Bee Movie (2007),bee movie,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
@@ -822,6 +988,7 @@ movie,processed_movie,Associated Music Genres
    To Kill a Mockingbird (1962),to kill a mockingbird,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Lethal Weapon (Movie Series),lethal weapon,"punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,chill,electronic"
    The Hateful Eight (2015),the hateful eight,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
+   The Chronicles of Narnia (Film Trilogy),the chronicles of narnia,
    Pocahontas (1995),pocahontas,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    The Room (2003),the room,"acoustic,darkwave,piano,folk,ambient,metal,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,noise,alternative,dark-ambient,world-music,electronic,indie,industrial"
    Emma. (2020),emma.,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
@@ -831,6 +998,7 @@ movie,processed_movie,Associated Music Genres
    The Aristocats (1970),the aristocats,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Ever After: A Cinderella Story,ever after: a cinderella story,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Groundhog Day (1993),groundhog day,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
+   Dead Poets Society (1989),dead poets society,
    Jojo Rabbit (2019),jojo rabbit,"acoustic,piano,punk,patriotic,soundtrack,singer-songwriter,rock,indie-pop,alternative,metal,world-music,indie"
    Green Book (2018),green book,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Peter Pan (2003),peter pan,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
@@ -839,6 +1007,7 @@ movie,processed_movie,Associated Music Genres
    The Silence of the Lambs (1991),the silence of the lambs,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Amadeus (1984),amadeus,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Passengers (2016),passengers,"piano,pop,indie-pop,folk,synth-pop,singer-songwriter,synthwave,retro,acoustic,ambient,space,chill,electronic,alternative,romantic,rock,r-n-b,indie,soul"
+   Little Miss Sunshine (2006),little miss sunshine,
    I'm Thinking of Ending Things (2020),i'm thinking of ending things,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
    Beetlejuice (1988),beetlejuice,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
    Bird Box (2018),bird box,"darkwave,chill,ambient,synth-pop,retro,synthwave,downtempo,space,dark-ambient,noise,metal,trip-hop,electronic,industrial"
@@ -846,6 +1015,8 @@ movie,processed_movie,Associated Music Genres
    Clue (1985),clue,"chill,reggae,ambient,dubstep,synthwave,trap,downtempo,drum-and-bass,grime,hip-hop,dark-ambient,trip-hop,electronic"
    The Ring (2002),the ring,"darkwave,chill,ambient,synthwave,downtempo,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    Mamma Mia! (2008),mamma mia!,"folk,pop,romantic,singer-songwriter,dance,r-n-b,indie,musical-theatre,soul"
+   Happiest Season (2020),happiest season,
+   Barbie: Princess Charm School,barbie: princess charm school,
 "   Girl, Interrupted (1999)","girl, interrupted","acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Independence Day (1996),independence day,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Persona (1966),persona,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
@@ -858,6 +1029,8 @@ movie,processed_movie,Associated Music Genres
    The Imitation Game (2014),the imitation game,"acoustic,country,folk,piano,ambient,dubstep,pop,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
    The Swan Princess (1994),the swan princess,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Judy (2019),judy,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
+   Spider-Man: Into the Spider-Verse (2018),spider-man: into the spider-verse,
+   Barbie As Rapunzel (2002),barbie as rapunzel,
    Sherlock Holmes,sherlock holmes,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synthwave,downtempo,drum-and-bass,dark-ambient,new-age,rock,metal,world-music,electronic,trip-hop"
    Bridesmaids (2011),bridesmaids,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Bring It On (franchise),bring it on,"folk,edm,romantic,pop,singer-songwriter,electronic,pump-up,hip-hop,rock,dance,r-n-b,indie,soul"
@@ -865,25 +1038,31 @@ movie,processed_movie,Associated Music Genres
    District 9 (2009),district 9,"punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,rock,metal,chill,electronic"
    The Land Before Time (1988),the land before time,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    The Texas Chainsaw Massacre (Franchise),the texas chainsaw massacre,"darkwave,reggae,ambient,dubstep,metal,trap,drum-and-bass,grime,noise,hip-hop,dark-ambient,electronic,industrial"
+   Ingrid Goes West ( 2017),ingrid goes west,
    Top Gun (1986),top gun,"acoustic,piano,punk,dubstep,hard-rock,alternative,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
    Bruce Almighty (2003),bruce almighty,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
    Leap Year (2010),leap year,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Easy A (2010),easy a,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   The Prom (2020),the prom,
    Pink Floyd: The Wall,pink floyd: the wall,"jazz,piano,funk,pop,epic-fantasy,soundtrack,indie-pop,folk,singer-songwriter,acoustic,ambient,world-music,alternative,blues,hip-hop,rock,r-n-b,indie,soul"
    Better Watch Out,better watch out,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Paddington (2014),paddington,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
+   Hillbilly Elegy (2020),hillbilly elegy,
    The Mule (2018),the mule,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Prozac Nation (2001),prozac nation,"acoustic,country,folk,piano,pop,romantic,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Rosemary’s Baby (1968),rosemary’s baby,
    Source Code (2011),source code,"piano,downtempo,indie-pop,rock,dubstep,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,hard-rock,metal,chill,electronic,punk,drum-and-bass,alternative,indie"
    Always Be My Maybe,always be my maybe,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Bumblebee (2018),bumblebee,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    War for the Planet of the Apes (2017),war for the planet of the apes,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Casablanca (1942),casablanca,"acoustic,piano,folk,patriotic,punk,romantic,pop,singer-songwriter,soundtrack,rock,indie-pop,alternative,metal,world-music,r-n-b,indie,soul"
    Fury (2014),fury,"acoustic,piano,punk,patriotic,dubstep,hard-rock,alternative,soundtrack,singer-songwriter,indie-pop,drum-and-bass,rock,metal,world-music,electronic,indie"
+   Nosferatu: A Symphony of Horror (1922),nosferatu: a symphony of horror,
    Rocketman (2019),rocketman,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,dance,r-n-b,indie,musical-theatre,soul"
    Moonstruck (1987),moonstruck,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Maleficent (2014),maleficent,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
    Nappily Ever After (2018),nappily ever after,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Halloween 2018 Timeline,halloween 2018 timeline,
    The Fly (1986),the fly,"piano,indie-pop,darkwave,synth-pop,singer-songwriter,synthwave,retro,noise,dark-ambient,acoustic,ambient,space,metal,chill,electronic,alternative,rock,indie,industrial"
    Norbit (2007),norbit,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Orphan (2009),orphan,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
@@ -894,6 +1073,8 @@ movie,processed_movie,Associated Music Genres
    The Bridge on the River Kwai (1957),the bridge on the river kwai,"acoustic,indie,folk,ambient,piano,patriotic,punk,soundtrack,singer-songwriter,indie-pop,new-age,alternative,metal,world-music,rock"
    The Apartment (1960),the apartment,"piano,pop,downtempo,indie-pop,folk,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,chill,electronic,alternative,romantic,rock,r-n-b,indie,soul"
    Monster House (2006),monster house,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
+   Bad Neighbors (2014),bad neighbors,
+   Due Date (2010),due date,
    Eat Pray Love,eat pray love,"acoustic,country,folk,piano,pop,romantic,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    P.S. I Love You (2007),p.s. i love you,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Blind Side,the blind side,"acoustic,country,folk,piano,edm,pop,singer-songwriter,rock,indie-pop,pump-up,hip-hop,alternative,dance,electronic,indie"
@@ -903,13 +1084,16 @@ movie,processed_movie,Associated Music Genres
 "   Love, Guaranteed","love, guaranteed","folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Cool Cat Saves the Kids (2015),cool cat saves the kids,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
    Nezha (2019),nezha,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
+   The Birdcage (1996),the birdcage,
    We Need to Talk About Kevin (2011),we need to talk about kevin,"acoustic,piano,chill,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,downtempo,drum-and-bass,alternative,dark-ambient,trip-hop,electronic,indie"
    Almost Famous (2000),almost famous,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Midsommar (2019),midsommar,"acoustic,darkwave,piano,ambient,chill,metal,singer-songwriter,synthwave,rock,indie-pop,downtempo,noise,alternative,dark-ambient,trip-hop,electronic,indie,industrial"
    A Little Princess (1995),a little princess,"acoustic,piano,folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,kids,world-music,alternative,upbeat,indie,fun"
    Donnie Darko (2001),donnie darko,"acoustic,piano,chill,ambient,synth-pop,singer-songwriter,synthwave,retro,rock,indie-pop,downtempo,space,alternative,dark-ambient,trip-hop,electronic,indie"
+   Punch-Drunk Love (2002),punch-drunk love,
    127 Hours (2010),127 hours,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Lost And Delirious,lost and delirious,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Ferris Bueller's Day Off (1986),ferris bueller's day off,
    Forgetting Sarah Marshall,forgetting sarah marshall,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Christmas Chronicles (Franchise),the christmas chronicles,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    The Village (2004),the village,"acoustic,piano,chill,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,downtempo,drum-and-bass,alternative,dark-ambient,trip-hop,electronic,indie"
@@ -921,6 +1105,7 @@ movie,processed_movie,Associated Music Genres
    Moulin Rouge (2001),moulin rouge,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Horse Girl (2020),horse girl,"acoustic,piano,chill,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,downtempo,drum-and-bass,alternative,dark-ambient,trip-hop,electronic,indie"
    Manhattan (1979),manhattan,"acoustic,indie,folk,ambient,romantic,pop,singer-songwriter,new-age,alternative,world-music,r-n-b,rock,soul"
+   Birdman or (The Unexpected Virtue of Ignorance) (2014),birdman or,
    Martyrs (2008),martyrs,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
    PK (2014),pk,"acoustic,piano,ambient,synth-pop,singer-songwriter,synthwave,retro,rock,indie-pop,space,alternative,chill,electronic,indie"
    Network (1976),network,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
@@ -931,33 +1116,46 @@ movie,processed_movie,Associated Music Genres
    The Nutty Professor (1996),the nutty professor,"folk,ambient,romantic,pop,singer-songwriter,synthwave,synth-pop,electronic,retro,space,chill,r-n-b,indie,soul"
    The Vow (2012),the vow,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Paper Towns (2015),paper towns,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
+"   Where’d You Go, Bernadette (2019)","where’d you go, bernadette",
    Bedazzled (2000),bedazzled,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
    Upgrade (2018),upgrade,"punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,rock,metal,chill,electronic"
    The Elephant Man (1980),the elephant man,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
+   Malavita: The Family,malavita: the family,
+   Pay It Forward ( 2000 ),pay it forward,
+"   The Great Beauty (La grande bellezza, 2013)",the great beauty,
    The Farewell (2019),the farewell,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Reality Bites (1994),reality bites,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Social Network (2010),the social network,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    The Thing (1982),the thing,"darkwave,chill,ambient,synth-pop,retro,synthwave,downtempo,space,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    Bird (1988),bird,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Drugstore Cowboy (1989),drugstore cowboy,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
+   Trainspotting,trainspotting,
    Spanglish,spanglish,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Ramo (2020),ramo,
    The Gift (2015),the gift,"acoustic,piano,punk,ambient,dubstep,hard-rock,alternative,singer-songwriter,synthwave,indie-pop,drum-and-bass,dark-ambient,rock,metal,chill,electronic,indie"
+   The Miseducation of Cameron Post (2018),the miseducation of cameron post,
+   Dumplin’ (2018),dumplin’,
    The Grinch (2018),the grinch,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
    The Proposal (2009),the proposal,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    He's Just Not That Into You,he's just not that into you,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Darjeeling Limited (2007),the darjeeling limited,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
+   Uncle Frank,uncle frank,
    Confessions of a Shopaholic,confessions of a shopaholic,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   The Last Laugh (1924),the last laugh,
    Little Women (1933),little women,"acoustic,piano,folk,children,pop,romantic,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,r-n-b,indie,fun,soul"
    Hostiles (2017),hostiles,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
    One Hundred and One Dalmatians (1961),one hundred and one dalmatians,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    UglyDolls,uglydolls,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Dirty Dancing (1987),dirty dancing,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
 "   Crouching Tiger, Hidden Dragon (2000)","crouching tiger, hidden dragon","acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
+   The Piano Teacher (2001),the piano teacher,
+   Speak (2004),speak,
    Would You Rather (2012),would you rather,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    The Girl with the Dragon Tattoo (2011),the girl with the dragon tattoo,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    The Day After Tomorrow (2004),the day after tomorrow,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    The Last Airbender (2010),the last airbender,"pop,upbeat,rock,folk,dubstep,singer-songwriter,kids,acoustic,ambient,hard-rock,new-age,metal,world-music,electronic,fun,punk,children,drum-and-bass,alternative"
    Baywatch (2017),baywatch,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
+   Beach rats (2018),beach rats,
    High Fidelity (2000),high fidelity,"acoustic,jazz,piano,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    The Day the Earth Stood Still (1951),the day the earth stood still,"acoustic,indie,folk,ambient,piano,chill,synth-pop,singer-songwriter,synthwave,retro,indie-pop,space,new-age,alternative,world-music,electronic,rock"
    The Wizard of Oz,the wizard of oz,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
@@ -968,6 +1166,7 @@ movie,processed_movie,Associated Music Genres
    No Country for Old Men (2007),no country for old men,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Dog Day Afternoon (1975),dog day afternoon,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Resident Evil,resident evil,"darkwave,punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,noise,rock,metal,chill,electronic,industrial"
+   Bibi Und Tina (2014),bibi und tina,
    The Secret of Moonacre (2008),the secret of moonacre,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
    Maid in Manhattan,maid in manhattan,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Autumn Sonata (1978),autumn sonata,"acoustic,piano,folk,children,pop,romantic,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,r-n-b,indie,fun,soul"
@@ -984,16 +1183,22 @@ movie,processed_movie,Associated Music Genres
    A Tale of Two Sisters (2003),a tale of two sisters,"acoustic,darkwave,piano,ambient,chill,metal,singer-songwriter,synthwave,rock,indie-pop,downtempo,noise,alternative,dark-ambient,trip-hop,electronic,indie,industrial"
    Dawn of the Dead (2004),dawn of the dead,"darkwave,punk,ambient,dubstep,hard-rock,drum-and-bass,dark-ambient,noise,rock,metal,electronic,industrial"
    Ginger Snaps (2000-2004),ginger snaps,"acoustic,darkwave,piano,folk,ambient,metal,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,noise,alternative,dark-ambient,world-music,electronic,indie,industrial"
+   I Am Sam (2001),i am sam,
+   I Heart Huckabees (2004),i heart huckabees,
    Me and Earl and the Dying Girl (2015),me and earl and the dying girl,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   3 Idiots (2009),3 idiots,
+   Sydney White and the seven dorks (2007),sydney white and the seven dorks,
    Yes Man (2008),yes man,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Incendies (2010),incendies,"acoustic,piano,chill,ambient,singer-songwriter,synthwave,rock,indie-pop,downtempo,alternative,dark-ambient,trip-hop,electronic,indie"
    The Green Inferno (2013),the green inferno,"acoustic,darkwave,folk,ambient,metal,noise,new-age,alternative,dark-ambient,world-music,electronic,rock,industrial"
    The Lobster (2015),the lobster,"piano,pop,indie-pop,folk,synth-pop,singer-songwriter,synthwave,retro,acoustic,ambient,space,chill,electronic,alternative,romantic,rock,r-n-b,indie,soul"
+"   Yes, God, Yes (2020)","yes, god, yes",
    The Book of Life (2014),the book of life,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    200 Pounds Beauty,200 pounds beauty,"acoustic,jazz,piano,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Letters to Juliet,letters to juliet,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Oz the Great and Powerful (2013),oz the great and powerful,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
    Lucas (1986),lucas,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Italian Spiderman,italian spiderman,
    A Song to Remember,a song to remember,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Ammonite,ammonite,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    When We First Met (2018),when we first met,"indie,folk,ambient,romantic,soundtrack,epic-fantasy,pop,singer-songwriter,alternative,world-music,r-n-b,rock,soul"
@@ -1002,16 +1207,22 @@ movie,processed_movie,Associated Music Genres
    This Means War (2012),this means war,"folk,punk,r-n-b,dubstep,hard-rock,romantic,pop,singer-songwriter,drum-and-bass,rock,metal,electronic,indie,soul"
    Chloe (2009),chloe,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    The Curious Case of Benjamin Button (2008),the curious case of benjamin button,"acoustic,piano,folk,ambient,romantic,epic-fantasy,singer-songwriter,soundtrack,pop,rock,indie-pop,alternative,world-music,r-n-b,indie,soul"
+   Scary Godmother: Halloween Spooktakular,scary godmother: halloween spooktakular,
    Good Boys (2019),good boys,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Shame (2011),shame,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    The Hills Have Eyes (2006),the hills have eyes,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   Padak,padak,
    A Few Good Men (1992),a few good men,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
 "   Extremely Wicked, Shockingly Evil and Vile (2019)","extremely wicked, shockingly evil and vile","acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    A Serbian Film (2010),a serbian film,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
+   Ternet Ninja,ternet ninja,
+   Samantha: An American Girl Holiday (2004),samantha: an american girl holiday,
    UHF,uhf,"ambient,synth-pop,retro,synthwave,space,chill,electronic"
+"   Four Days in September (1997) O Que É Isso, Companheiro?","four days in september o que é isso, companheiro?",
    The Other Boleyn Girl,the other boleyn girl,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    Nancy Drew and the Hidden Staircase (2019),nancy drew and the hidden staircase,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    The Four Feathers (2002),the four feathers,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
+   Love Comes Softly (2003),love comes softly,
    Another Year (2010),another year,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Excalibur (1981),excalibur,"acoustic,indie,folk,ambient,piano,epic-fantasy,singer-songwriter,soundtrack,indie-pop,new-age,alternative,world-music,rock"
    Driving Miss Daisy (1989),driving miss daisy,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
@@ -1022,6 +1233,8 @@ movie,processed_movie,Associated Music Genres
    Middle School: The Worst Years of My Life,middle school: the worst years of my life,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
    Betty Blue (37°2 le Matin) (1986),betty blue,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    I.T. (2016),i.t.,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
+   Dai Si Hing (2018),dai si hing,
+   The Blue Shell Incident (2019),the blue shell incident,
    Hollow Man (2000),hollow man,"darkwave,punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,noise,rock,metal,chill,electronic,industrial"
    Identity (2003),identity,"acoustic,piano,punk,patriotic,soundtrack,singer-songwriter,rock,indie-pop,alternative,metal,world-music,indie"
    Paradise Hills (2019),paradise hills,"folk,ambient,chill,trip-hop,synth-pop,soundtrack,epic-fantasy,synthwave,retro,downtempo,space,alternative,dark-ambient,world-music,electronic,rock"
@@ -1029,31 +1242,51 @@ movie,processed_movie,Associated Music Genres
    Noah (2014),noah,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Around the World in 80 Days (2004),around the world in 80 days,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Christine (2016),christine,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
+   A Cinderella Story: Christmas Wish (2019),a cinderella story: christmas wish,
+   Brexit: The Uncivil War (2019),brexit: the uncivil war,
    Inspector Gadget,inspector gadget,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    CJ7,cj7,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Bridget Jones's Diary (franchise),bridget jones's diary,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    PLAYMOBIL: THE MOVIE (2019),playmobil: the movie,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Bravetown,bravetown,
+   Pi: Faith in chaos,pi: faith in chaos,
    La La Land (2016),la la land,"acoustic,jazz,piano,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    A Fall from Grace (2020),a fall from grace,"ambient,dubstep,synthwave,drum-and-bass,dark-ambient,chill,electronic"
    Masoom,masoom,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
    Mine Vaganti,mine vaganti,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    War Horse (2011),war horse,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    A Moment To Remember,a moment to remember,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Ahlat Ağacı,ahlat ağacı,
    Elysium,elysium,"piano,indie-pop,rock,dubstep,synth-pop,singer-songwriter,synthwave,retro,acoustic,ambient,hard-rock,space,metal,chill,electronic,punk,drum-and-bass,alternative,indie"
+   Neighboring Sounds (2012) O Som ao Redor,neighboring sounds o som ao redor,
    The Nutcracker And The Four Realms,the nutcracker and the four realms,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
+   A Beautiful Day in the Neighbourhood (2019),a beautiful day in the neighbourhood,
+   Eiffel I'm in Love (2003),eiffel i'm in love,
    The Adventures of Tom Sawyer (1938 ),the adventures of tom sawyer,"acoustic,indie,folk,ambient,piano,upbeat,children,pop,singer-songwriter,indie-pop,kids,new-age,alternative,world-music,rock,fun"
    Pearl Harbor,pearl harbor,"piano,epic,indie-pop,opera,rock,dubstep,singer-songwriter,acoustic,ambient,hard-rock,metal,world-music,electronic,classical,punk,drum-and-bass,alternative,symphony,indie"
    Anthropoid (2016),anthropoid,"acoustic,country,folk,punk,piano,dubstep,hard-rock,alternative,pop,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
+   Fences (2016),fences,
    Dil Chahta Hai,dil chahta hai,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Isi and Ossi,isi and ossi,
+   Carnage (2011),carnage,
+   The Last Detail (1973),the last detail,
+   Reign Over Me,reign over me,
    What To Expect When You're Expecting,what to expect when you're expecting,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Willy Wonka and the Chocolate Factory (1971),willy wonka and the chocolate factory,
    The Hunt for Red October (1990),the hunt for red october,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synthwave,drum-and-bass,dark-ambient,new-age,rock,metal,world-music,electronic"
+   Uncle Buck (1989),uncle buck,
    Who Killed Captain Alex? (2010),who killed captain alex?,"chill,punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,downtempo,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,trip-hop,electronic"
    Nancy Drew (2007),nancy drew,"folk,reggae,dubstep,children,pop,singer-songwriter,trap,kids,drum-and-bass,grime,hip-hop,upbeat,electronic,fun"
    Awake (2007),awake,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Dolphin Tale (2011),dolphin tale,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    Loving Annabelle,loving annabelle,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Le Dîner de cons (1998),le dîner de cons,
+   Killers 2010,killers 2010,
    Some Kind of Wonderful (1987),some kind of wonderful,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Bad Girls From Valley High (2005),bad girls from valley high,
+   Read it and Weep (2006),read it and weep,
    Beethoven,beethoven,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
+   The Dollars Trilogy,the dollars trilogy,
    Lars and the Real Girl,lars and the real girl,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Night of the Living Dead (1968),night of the living dead,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Harold and Maude (1971),harold and maude,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
@@ -1061,26 +1294,39 @@ movie,processed_movie,Associated Music Genres
    Escape from Alcatraz (1979),escape from alcatraz,"acoustic,country,folk,punk,reggae,dubstep,hard-rock,pop,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    Pete's Dragon (1977),pete's dragon,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Ms .45 (1981),ms .45,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
+   Pierino Series,pierino series,
+   Better Off Dead (1985),better off dead,
    Stand and Deliver (1988),stand and deliver,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Twins (1988),twins,"reggae,dubstep,trap,drum-and-bass,grime,hip-hop,electronic"
    The Witches of Eastwick (1987),the witches of eastwick,"darkwave,folk,ambient,metal,soundtrack,epic-fantasy,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
    The Wizard (1989),the wizard,"darkwave,chill,ambient,synth-pop,retro,synthwave,downtempo,space,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    The Bodyguard (1992),the bodyguard,"jazz,piano,funk,pop,indie-pop,rock,dubstep,singer-songwriter,acoustic,hard-rock,metal,electronic,punk,blues,drum-and-bass,hip-hop,alternative,r-n-b,indie,soul"
    Darr,darr,"acoustic,piano,punk,r-n-b,dubstep,hard-rock,alternative,folk,romantic,pop,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie,soul"
+   Ri¢hie Ri¢h (1994),ri¢hie ri¢h,
    Emma (1996),emma,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    Chalte Chalte (2003),chalte chalte,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Legend Of Bagger Vance,the legend of bagger vance,"acoustic,piano,folk,ambient,edm,pop,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,pump-up,hip-hop,alternative,dance,world-music,electronic,indie"
    Sweet Home Alabama (2002),sweet home alabama,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   Waydowntown,waydowntown,
    The First Time (2009),the first time,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
+   Northanger Abbey (2007),northanger abbey,
+   Birdemic: Shock and Terror (2010),birdemic: shock and terror,
    Waterloo Bridge,waterloo bridge,"acoustic,piano,folk,patriotic,punk,romantic,pop,singer-songwriter,soundtrack,rock,indie-pop,alternative,metal,world-music,r-n-b,indie,soul"
    The Ledge (2011),the ledge,"acoustic,folk,ambient,chill,dubstep,synthwave,drum-and-bass,new-age,alternative,dark-ambient,world-music,electronic,rock"
+   X+Y / A Brilliant Young Mind (2014),x+y / a brilliant young mind,
    Southpaw (2015),southpaw,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    Trumbo,trumbo,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
+   A Cinderella Story: Once Upon A Song (2011),a cinderella story: once upon a song,
    The Belko Experiment (2016),the belko experiment,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   BoratFilms,boratfilms,
    American Made (2017),american made,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
 "   Everything, Everything","everything, everything","acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    First Reformed,first reformed,"acoustic,piano,chill,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,downtempo,drum-and-bass,alternative,dark-ambient,trip-hop,electronic,indie"
    Cold War (Zimna wojna; 2018),cold war,"chill,punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,downtempo,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,trip-hop,electronic"
+   Eighth Grade (2018),eighth grade,
+   Roma (2018),roma,
+   A Nasty Piece of Work (2019),a nasty piece of work,
+   The Garden Of Evening Mist,the garden of evening mist,
    Desperados,desperados,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    The Maid,the maid,"acoustic,darkwave,piano,ambient,chill,metal,singer-songwriter,synthwave,rock,indie-pop,downtempo,noise,alternative,dark-ambient,trip-hop,electronic,indie,industrial"
    Chicken Little (2005),chicken little,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
@@ -1089,19 +1335,29 @@ movie,processed_movie,Associated Music Genres
    Belle (2013),belle,"acoustic,country,folk,piano,pop,romantic,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    A Star is Born (2018),a star is born,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Luce (2019),luce,"acoustic,piano,chill,ambient,singer-songwriter,synthwave,rock,indie-pop,downtempo,alternative,dark-ambient,trip-hop,electronic,indie"
+   Invisible Sister,invisible sister,
 "   Like Father, Like Son (2013)","like father, like son","acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Barton Fink,barton fink,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
    The Hudsucker Proxy,the hudsucker proxy,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
+   Pee-wee's Big Adventure (1985),pee-wee's big adventure,
    The Love Bug (1968),the love bug,"folk,edm,children,pop,singer-songwriter,kids,pump-up,hip-hop,rock,dance,upbeat,electronic,fun"
    Straight Outta Compton (2015),straight outta compton,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
+   Happiness (1998),happiness,
+   Barbie: Fairytopia,barbie: fairytopia,
    The Witch,the witch,"acoustic,darkwave,piano,folk,ambient,metal,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,noise,alternative,dark-ambient,world-music,electronic,indie,industrial"
+   The Search For Santa Paws,the search for santa paws,
+"   Through a Glass Darkly (Såsom i en spegel, 1961)",through a glass darkly,
    The Perfection,the perfection,"jazz,piano,funk,pop,indie-pop,darkwave,singer-songwriter,noise,dark-ambient,acoustic,ambient,metal,electronic,alternative,blues,hip-hop,rock,r-n-b,indie,industrial,soul"
    Shoot 'Em Up (2007),shoot 'em up,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
    Bewitched (2005),bewitched,"indie,folk,ambient,romantic,soundtrack,epic-fantasy,pop,singer-songwriter,alternative,world-music,r-n-b,rock,soul"
+   DAU. Natasha (2020),dau. natasha,
+   La Leyenda de la Nahuala,la leyenda de la nahuala,
+   Cry-Baby,cry-baby,
    Morning Glory (2010),morning glory,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Witches (2020),the witches,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    Dora and the Lost City Of Gold (2019),dora and the lost city of gold,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    The Queen ( 2006 ),the queen,"acoustic,piano,punk,patriotic,dubstep,hard-rock,alternative,soundtrack,singer-songwriter,indie-pop,drum-and-bass,rock,metal,world-music,electronic,indie"
+   The Master of Disguise (2002),the master of disguise,
    The Ritual,the ritual,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
    She's the Man,she's the man,"folk,edm,romantic,pop,singer-songwriter,electronic,pump-up,hip-hop,rock,dance,r-n-b,indie,soul"
    Underwater (2020),underwater,"darkwave,punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,noise,rock,metal,chill,electronic,industrial"
@@ -1110,26 +1366,35 @@ movie,processed_movie,Associated Music Genres
    Hugo (2010),hugo,"acoustic,indie,folk,ambient,piano,upbeat,children,pop,singer-songwriter,indie-pop,kids,new-age,alternative,world-music,rock,fun"
    The Crucible (1996),the crucible,"acoustic,piano,ambient,classical,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    Dirty Dancing: Havana Nights,dirty dancing: havana nights,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
+   28 Days (2000),28 days,
    Daydream Nation,daydream nation,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Meg (2018),the meg,"darkwave,punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,noise,rock,metal,chill,electronic,industrial"
    The Drug King,the drug king,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    On the Waterfront,on the waterfront,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Let the Right One In (2008),let the right one in,"acoustic,darkwave,piano,folk,ambient,metal,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,noise,alternative,dark-ambient,world-music,electronic,indie,industrial"
+   Cuties (Mignonnes),cuties,
+   Olive The Other Reindeer,olive the other reindeer,
    The Flintstones,the flintstones,"folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,world-music,alternative,upbeat,rock,fun"
+   A Christmas Princess,a christmas princess,
+   Four Christmases/Four Holidays (2008),four christmases/four holidays,
    Twisted Nerve (1968),twisted nerve,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
    Rounders (1998),rounders,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    The Prisoner of Zenda (1952),the prisoner of zenda,"acoustic,indie,folk,ambient,piano,jazz,funk,blues,pop,singer-songwriter,indie-pop,hip-hop,new-age,alternative,world-music,r-n-b,rock,soul"
+   Mr. Magoo's Christmas Carol,mr. magoo's christmas carol,
    Keeping Up with the Joneses,keeping up with the joneses,"punk,dubstep,hard-rock,drum-and-bass,rock,metal,electronic"
+   Mysterious Skin (2004),mysterious skin,
    Ghosts of Girlfriends Past (2009),ghosts of girlfriends past,"indie,folk,ambient,romantic,soundtrack,epic-fantasy,pop,singer-songwriter,alternative,world-music,r-n-b,rock,soul"
    Life In A Year,life in a year,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Serial Mom,serial mom,"reggae,ambient,dubstep,synthwave,trap,drum-and-bass,grime,hip-hop,dark-ambient,chill,electronic"
    Mortal Kombat Legends: Scorpion's Revenge (2020),mortal kombat legends: scorpion's revenge,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Vanilla Sky (2001),vanilla sky,"pop,soundtrack,epic-fantasy,downtempo,rock,folk,singer-songwriter,synthwave,dark-ambient,trip-hop,ambient,chill,world-music,electronic,romantic,alternative,r-n-b,indie,soul"
    Honest Thief,honest thief,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
+   Goodnight Mister Tom,goodnight mister tom,
    Cat People (1942),cat people,"darkwave,folk,ambient,chill,dubstep,metal,soundtrack,epic-fantasy,synthwave,drum-and-bass,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
    Fred Claus (2007),fred claus,"folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,world-music,alternative,upbeat,rock,fun"
    Safety (2020),safety,"acoustic,country,folk,piano,edm,pop,singer-songwriter,rock,indie-pop,pump-up,hip-hop,alternative,dance,electronic,indie"
    Matinee (1993),matinee,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
+   Office Space (1999),office space,
    Sunshine (2007),sunshine,"ambient,dubstep,synth-pop,retro,synthwave,space,drum-and-bass,dark-ambient,chill,electronic"
    Far and Away (1992),far and away,"acoustic,indie,folk,ambient,piano,romantic,pop,singer-songwriter,indie-pop,new-age,alternative,world-music,r-n-b,rock,soul"
    A Wrinkle in Time (2018),a wrinkle in time,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
@@ -1139,13 +1404,18 @@ movie,processed_movie,Associated Music Genres
    It's Complicated (2009),it's complicated,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Carrie (2002),carrie,"darkwave,chill,ambient,synthwave,downtempo,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    Pleasantville (1998),pleasantville,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
+   Young Victoria (2009),young victoria,
    Shakespeare in love,shakespeare in love,"acoustic,piano,ambient,classical,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    Villains,villains,"acoustic,darkwave,piano,ambient,metal,singer-songwriter,rock,indie-pop,noise,alternative,dark-ambient,electronic,indie,industrial"
    Brave (2012),brave,"punk,dubstep,hard-rock,drum-and-bass,rock,metal,electronic"
    The Shining (1980),the shining,"acoustic,darkwave,piano,ambient,metal,singer-songwriter,rock,indie-pop,noise,alternative,dark-ambient,electronic,indie,industrial"
    Joker (2019),joker,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
+   Django Unchained (2012),django unchained,
    Jennifer's Body (2009),jennifer's body,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
    Spirit: Stallion of the Cimarron (2002),spirit: stallion of the cimarron,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
+   Kill Bill (2003),kill bill,
+   Interview with the Vampire (1994),interview with the vampire,
+   365 Days (2020),365 days,
    Treasure Planet (2002),treasure planet,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    Schindler's List (1993),schindler's list,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    The Mummy (1999 - 2008),the mummy,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
@@ -1159,8 +1429,10 @@ movie,processed_movie,Associated Music Genres
    Sinbad: Legend of the Seven Seas (2003),sinbad: legend of the seven seas,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Reservoir Dogs (1992),reservoir dogs,"reggae,ambient,dubstep,synthwave,trap,drum-and-bass,grime,hip-hop,dark-ambient,chill,electronic"
    Now You See Me (Franchise),now you see me,"acoustic,darkwave,piano,ambient,dubstep,metal,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,noise,alternative,dark-ambient,chill,electronic,indie,industrial"
+   Kick-Ass (2010),kick-ass,
    The Man from U.N.C.L.E. (2015),the man from u.n.c.l.e.,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Monty Python and the Holy Grail (1979),monty python and the holy grail,"acoustic,folk,ambient,epic-fantasy,soundtrack,new-age,alternative,world-music,rock"
+   A Streetcar Named Desire (1951),a streetcar named desire,
    Train to Busan (2016),train to busan,"darkwave,punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,noise,rock,metal,chill,electronic,industrial"
    The Half of It (2020),the half of it,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Enola Holmes (2020),enola holmes,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,reggae,trap,drum-and-bass,grime,hip-hop,new-age,rock,metal,world-music,electronic"
@@ -1168,9 +1440,11 @@ movie,processed_movie,Associated Music Genres
    City of God (2002),city of god,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Alita: Battle Angel (2019),alita: battle angel,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Shark Tale (2004),shark tale,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Rain Man (1988),rain man,
    Mr. & Mrs. Smith (2005),mr. & mrs. smith,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    Blue Velvet (1986),blue velvet,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    Deadpool (2016),deadpool,"punk,dubstep,hard-rock,drum-and-bass,rock,metal,electronic"
+   Mid90s (2018),mid90s,
    Chicken Run (2000),chicken run,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Midnight in Paris (2011),midnight in paris,"indie,folk,ambient,romantic,soundtrack,epic-fantasy,pop,singer-songwriter,alternative,world-music,r-n-b,rock,soul"
    Nerve (2016),nerve,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,reggae,trap,drum-and-bass,grime,hip-hop,new-age,rock,metal,world-music,electronic"
@@ -1182,17 +1456,20 @@ movie,processed_movie,Associated Music Genres
    Drive (2011),drive,"acoustic,piano,punk,dubstep,hard-rock,alternative,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie"
    The Hitchhiker's Guide to the Galaxy (2005),the hitchhiker's guide to the galaxy,"acoustic,folk,ambient,chill,synth-pop,retro,synthwave,space,new-age,alternative,world-music,electronic,rock"
    Léon: The Professional (1994),léon: the professional,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+   The Devil Wears Prada (2006),the devil wears prada,
    The Mask of Zorro (1998),the mask of zorro,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Breathless (1960),breathless,"acoustic,piano,punk,r-n-b,dubstep,hard-rock,alternative,folk,romantic,pop,singer-songwriter,indie-pop,drum-and-bass,rock,metal,electronic,indie,soul"
    The Revenant (2015),the revenant,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    9 (2009),9,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Flushed Away (2006),flushed away,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Valerian and the City of a Thousand Planets (2017),valerian and the city of a thousand planets,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
+   Charlie’s Angels (2000),charlie’s angels,
    Disturbia (2007),disturbia,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    V for Vendetta (2005),v for vendetta,"piano,indie-pop,rock,dubstep,synth-pop,singer-songwriter,synthwave,retro,acoustic,ambient,hard-rock,space,metal,chill,electronic,punk,drum-and-bass,alternative,indie"
    Home (2015),home,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    The Virgin Suicides (1999),the virgin suicides,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Kong: Skull Island (2017),kong: skull island,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
+   Bad Moms (2016),bad moms,
    The Santa Clause (trilogy),the santa clause,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    North By Northwest (1959),north by northwest,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synthwave,downtempo,drum-and-bass,dark-ambient,new-age,rock,metal,world-music,electronic,trip-hop"
    Fantastic Mr. Fox (2009),fantastic mr. fox,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
@@ -1200,31 +1477,43 @@ movie,processed_movie,Associated Music Genres
    Memories Of Murder (2003),memories of murder,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    Spy Kids (2001),spy kids,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Fritz The Cat,fritz the cat,"acoustic,piano,singer-songwriter,rock,indie-pop,alternative,indie"
+   The Edge of Seventeen (2016),the edge of seventeen,
    Falling Down (1993),falling down,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+   Terminator,terminator,
    Primal Fear (1996),primal fear,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    The Golden Compass (2007),the golden compass,"acoustic,folk,ambient,upbeat,children,pop,epic-fantasy,singer-songwriter,soundtrack,kids,new-age,alternative,world-music,rock,fun"
    Shaun Of The Dead,shaun of the dead,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
    Closer (2004),closer,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Call (2020),the call,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
+   School of Rock (2003),school of rock,
+   Honey Boy (2019),honey boy,
    Nim's Island,nim's island,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Fatal Attraction (1987),fatal attraction,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
    Total Recall (1990),total recall,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
+   Billy Elliot (2000),billy elliot,
    The Hitman's Bodyguard (2017),the hitman's bodyguard,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    Thelma & Louise (1991),thelma & louise,"acoustic,indie,folk,ambient,reggae,dubstep,piano,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,new-age,alternative,world-music,electronic,rock"
    American Hustle (2013),american hustle,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Creep,creep,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Green Street Hooligans (2005),green street hooligans,"acoustic,piano,reggae,edm,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,pump-up,grime,hip-hop,alternative,dance,electronic,indie"
    Ready or Not (2019),ready or not,"darkwave,punk,ambient,dubstep,hard-rock,drum-and-bass,dark-ambient,noise,rock,metal,electronic,industrial"
+   E.T. the Extra-Terrestrial (1982),e.t. the extra-terrestrial,
    The Raid (2011),the raid,"acoustic,piano,punk,patriotic,dubstep,hard-rock,alternative,soundtrack,singer-songwriter,indie-pop,drum-and-bass,rock,metal,world-music,electronic,indie"
    The Pianist (2002),the pianist,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    First Man (2018),first man,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    Little Shop of Horrors,little shop of horrors,"darkwave,dance,ambient,r-n-b,pop,singer-songwriter,dark-ambient,noise,musical-theatre,metal,electronic,indie,industrial,soul"
+   Ben-Hur (1959),ben-hur,
    The Mortal Instruments: City of Bones (2013),the mortal instruments: city of bones,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
 "   Lock, Stock and Two Smoking Barrels (1998)","lock, stock and two smoking barrels","punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    It Follows (2014),it follows,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
+   Palo Alto (2013),palo alto,
+   Withnail & I (1987),withnail & i,
+   The Goldfinch (2019),the goldfinch,
+   Once Upon a Time in the West (1968),once upon a time in the west,
    Gully Boy (2019),gully boy,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Fantastic Four (2015),fantastic four,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Slumdog Millionaire (2008),slumdog millionaire,"piano,pop,indie-pop,folk,dubstep,singer-songwriter,grime,acoustic,reggae,trap,electronic,alternative,romantic,drum-and-bass,hip-hop,rock,r-n-b,indie,soul"
+   Tucker & Dale vs. Evil (2010),tucker & dale vs. evil,
    Something's Gotta Give (2003),something's gotta give,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    The Prince of Egypt (1998),the prince of egypt,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Rango,rango,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
@@ -1248,10 +1537,12 @@ movie,processed_movie,Associated Music Genres
    Glengarry Glen Ross (1992),glengarry glen ross,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    On the Road (2012 ),on the road,"acoustic,indie,folk,ambient,piano,romantic,pop,singer-songwriter,indie-pop,new-age,alternative,world-music,r-n-b,rock,soul"
    Doctor Zhivago (1965),doctor zhivago,"acoustic,piano,folk,patriotic,punk,romantic,pop,singer-songwriter,soundtrack,rock,indie-pop,alternative,metal,world-music,r-n-b,indie,soul"
+   La Strada (1954),la strada,
    I Love You Phillip Morris (2009),i love you phillip morris,"acoustic,country,folk,reggae,dubstep,pop,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,electronic,indie"
    Mortdecai (2015),mortdecai,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Dead Man's Shoes (2004),dead man's shoes,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    Klaus (2019),klaus,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Scent of a Woman (1992),scent of a woman,
    The Favourite (2018),the favourite,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Power Rangers (2017),power rangers,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Lucy (2014),lucy,"punk,ambient,dubstep,hard-rock,synth-pop,retro,synthwave,drum-and-bass,space,dark-ambient,rock,metal,chill,electronic"
@@ -1260,19 +1551,25 @@ movie,processed_movie,Associated Music Genres
    James and the Giant Peach ( 1996),james and the giant peach,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    Dawn of the Dead (1978),dawn of the dead,"darkwave,punk,ambient,dubstep,hard-rock,drum-and-bass,dark-ambient,noise,rock,metal,electronic,industrial"
    War of the Worlds (2005),war of the worlds,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
+   Eurovision Song Contest: The Story of Fire Saga,eurovision song contest: the story of fire saga,
    Flash Gordon (1980),flash gordon,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    The Trial of the Chicago 7 (2020),the trial of the chicago 7,"piano,epic,indie-pop,opera,dubstep,singer-songwriter,synthwave,dark-ambient,acoustic,ambient,chill,world-music,classical,electronic,alternative,drum-and-bass,rock,symphony,indie"
    Antz (1998),antz,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   The Sisters Brothers (2018),the sisters brothers,
    Richard Jewell (2019),richard jewell,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Elvira: Mistress of the Dark (1988),elvira: mistress of the dark,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
    Mary and the Witch's Flower (2017),mary and the witch's flower,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    The Untouchables (1987),the untouchables,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
+   Threat Level Midnight (2019),threat level midnight,
    Frances Ha (2012),frances ha,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Let it Shine,let it shine,
    Layer Cake (2004),layer cake,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
+   Terkel in Trouble (Terkel i knibe; 2004),terkel in trouble,
    Mansfield Park (1999),mansfield park,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Big Daddy,big daddy,"acoustic,indie,folk,ambient,reggae,dubstep,piano,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,new-age,alternative,world-music,electronic,rock"
    Watership Down (1978),watership down,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    6 Underground (2019),6 underground,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
+   Halloweentown (1998),halloweentown,
    Rashomon (1950),rashomon,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    Quills (2000),quills,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Michael Clayton (2007),michael clayton,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
@@ -1281,26 +1578,35 @@ movie,processed_movie,Associated Music Genres
    The Basketball Diaries (1995),the basketball diaries,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    Missing Link (2019),missing link,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Cool World (1992),cool world,"folk,ambient,soundtrack,epic-fantasy,alternative,world-music,rock"
+   Vampire Academy: Blood Sisters (2014),vampire academy: blood sisters,
    Queen of the Damned,queen of the damned,"acoustic,darkwave,piano,folk,ambient,metal,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,noise,alternative,dark-ambient,world-music,electronic,indie,industrial"
    21 (2008),21,"darkwave,ambient,dark-ambient,noise,metal,electronic,industrial"
    Pixels,pixels,"folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,rock,metal,world-music,electronic"
    Life as We Know It (2010),life as we know it,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Mortal Kombat films,mortal kombat films,
    The Call of the Wild (2020),the call of the wild,"acoustic,indie,folk,ambient,piano,upbeat,children,pop,singer-songwriter,indie-pop,kids,new-age,alternative,world-music,rock,fun"
    Strange Days (1995),strange days,"piano,indie-pop,dubstep,synth-pop,singer-songwriter,synthwave,retro,grime,acoustic,reggae,ambient,trap,space,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
+   Prince Of Egypt (1998),prince of egypt,
+   The Fundamentals of Caring (2016),the fundamentals of caring,
    In the Heart of the Sea (2015),in the heart of the sea,"acoustic,country,folk,punk,ambient,dubstep,hard-rock,alternative,pop,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Memento (2000),memento,"ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,chill,electronic,trip-hop"
+   Dirty Grandpa (2016),dirty grandpa,
    Point Break (1991),point break,"punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,chill,electronic"
    The Diary of a Teenage Girl (2015),the diary of a teenage girl,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Manic (2001),manic,
    Never Been Kissed (1999),never been kissed,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Underworld,underworld,"folk,punk,ambient,dubstep,hard-rock,alternative,chill,epic-fantasy,soundtrack,synthwave,drum-and-bass,dark-ambient,rock,metal,world-music,electronic"
+   The Book of Sun (شمس المعارف),the book of sun,
    Annie Hall (1977),annie hall,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Soul (2020),soul,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
    Dangerous Liaisons (1988),dangerous liaisons,"piano,pop,downtempo,indie-pop,folk,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,chill,electronic,alternative,romantic,rock,r-n-b,indie,soul"
    Flight of the Navigator (1986),flight of the navigator,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
+   The Squid and the Whale,the squid and the whale,
    The Talented Mr. Ripley (1999),the talented mr. ripley,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    The Abyss,the abyss,"acoustic,indie,folk,ambient,piano,chill,trip-hop,singer-songwriter,synthwave,downtempo,indie-pop,new-age,alternative,dark-ambient,world-music,electronic,rock"
    The Blue Lagoon (1980),the blue lagoon,"acoustic,indie,folk,ambient,piano,romantic,pop,singer-songwriter,indie-pop,new-age,alternative,world-music,r-n-b,rock,soul"
    Set It Up (2018),set it up,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   Sling Blade (1996),sling blade,
    Funny Girl,funny girl,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    A Rainy Day in New York (2019),a rainy day in new york,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Big Trouble in Little China (1986),big trouble in little china,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
@@ -1314,9 +1620,12 @@ movie,processed_movie,Associated Music Genres
    Failure to Launch,failure to launch,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Before We Go (2014),before we go,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Cannibal Holocaust,cannibal holocaust,"acoustic,darkwave,folk,ambient,metal,noise,new-age,alternative,dark-ambient,world-music,electronic,rock,industrial"
+   Stuck in Love,stuck in love,
+   Big Time Adolescence,big time adolescence,
    Kubo and the Two Strings (2016),kubo and the two strings,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    The Magnificent Seven (2016),the magnificent seven,"acoustic,country,folk,punk,ambient,dubstep,hard-rock,alternative,bluegrass,blues,drum-and-bass,new-age,rock,metal,world-music,electronic"
    The Girl Next Door (2004),the girl next door,"piano,indie-pop,darkwave,dubstep,singer-songwriter,grime,noise,dark-ambient,acoustic,reggae,ambient,trap,metal,electronic,alternative,drum-and-bass,hip-hop,rock,indie,industrial"
+   Seksmisja ( 1984),seksmisja,
    Dial M for Murder (1954),dial m for murder,"reggae,ambient,dubstep,synthwave,trap,drum-and-bass,grime,hip-hop,dark-ambient,chill,electronic"
 "   L'armata Brancaleone (For Love and Gold, 1966)",l'armata brancaleone,"acoustic,folk,ambient,piano,classical,epic,opera,new-age,alternative,world-music,rock,symphony"
    Gnome Alone (2017),gnome alone,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
@@ -1334,9 +1643,11 @@ movie,processed_movie,Associated Music Genres
    Dredd (2012),dredd,"punk,reggae,dubstep,hard-rock,ambient,synth-pop,retro,synthwave,trap,drum-and-bass,space,grime,hip-hop,rock,metal,chill,electronic"
    Kicking And Screaming,kicking and screaming,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Freedom Writers (2007),freedom writers,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
+   Bicycle Thieves (1948),bicycle thieves,
    Possum,possum,"acoustic,darkwave,piano,ambient,chill,metal,singer-songwriter,synthwave,rock,indie-pop,downtempo,noise,alternative,dark-ambient,trip-hop,electronic,indie,industrial"
    Hush,hush,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    Night of the Living Dead (1990),night of the living dead,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   Banker Bilo,banker bilo,
    Out of Africa (1985),out of africa,"acoustic,country,folk,piano,pop,romantic,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Munich (2005),munich,"piano,epic,indie-pop,opera,rock,dubstep,singer-songwriter,acoustic,ambient,hard-rock,metal,world-music,electronic,classical,punk,drum-and-bass,alternative,symphony,indie"
    Nacho libre (2006),nacho libre,"folk,edm,children,pop,singer-songwriter,kids,pump-up,hip-hop,rock,dance,upbeat,electronic,fun"
@@ -1345,19 +1656,29 @@ movie,processed_movie,Associated Music Genres
    Oblivion ( 2013 ),oblivion,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    Mommy (2014),mommy,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
    12 Strong (2018),12 strong,"piano,epic,indie-pop,opera,rock,dubstep,singer-songwriter,acoustic,ambient,hard-rock,metal,world-music,electronic,classical,punk,drum-and-bass,alternative,symphony,indie"
+   Capernaum (2018),capernaum,
    Lords of Chaos (2018),lords of chaos,"acoustic,country,folk,piano,ambient,darkwave,metal,pop,singer-songwriter,rock,indie-pop,noise,alternative,dark-ambient,electronic,indie,industrial"
    The Nightingale ( 2018),the nightingale,"acoustic,indie,folk,ambient,piano,dubstep,chill,singer-songwriter,synthwave,indie-pop,drum-and-bass,new-age,alternative,dark-ambient,world-music,electronic,rock"
+   Upside Down Magic,upside down magic,
+   Wag the Dog (1997),wag the dog,
    Kiss Kiss Bang Bang,kiss kiss bang bang,"chill,reggae,ambient,dubstep,synthwave,trap,downtempo,drum-and-bass,grime,hip-hop,dark-ambient,trip-hop,electronic"
    Stealing Beauty (1996),stealing beauty,"piano,pop,downtempo,indie-pop,folk,singer-songwriter,synthwave,dark-ambient,trip-hop,acoustic,ambient,chill,electronic,alternative,romantic,rock,r-n-b,indie,soul"
+   Windstruck (2004),windstruck,
    The Mist (2007),the mist,"darkwave,ambient,dubstep,synth-pop,retro,synthwave,space,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
    The Hunt (Jagten; 2012),the hunt,"darkwave,punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,noise,rock,metal,chill,electronic,industrial"
    An American Tail (1986),an american tail,"acoustic,folk,ambient,new-age,alternative,world-music,rock"
+   Nacional-Incelismo,nacional-incelismo,
+   The Cheetah Girls (franchise),the cheetah girls,
+   Kanlı Nigar (1981),kanlı nigar,
    Miracle in Cell No. 7 (2019),miracle in cell no. 7,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    The Hidden Fortress ( 1958),the hidden fortress,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Tulip Fever (2017),tulip fever,"acoustic,piano,ambient,folk,classical,epic,romantic,singer-songwriter,pop,rock,indie-pop,world-music,opera,alternative,symphony,r-n-b,indie,soul"
    Strange Brew (1983),strange brew,"reggae,ambient,dubstep,synth-pop,retro,synthwave,trap,drum-and-bass,space,grime,hip-hop,chill,electronic"
    The Butterfly Effect (2004),the butterfly effect,"acoustic,piano,ambient,dubstep,synth-pop,singer-songwriter,synthwave,retro,rock,indie-pop,space,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
+   Kolya (1996),kolya,
+   Fanatyk (2017),fanatyk,
    The Legend of Hercules ( 2014),the legend of hercules,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
+   Central Station (1998),central station,
    Love on a Leash,love on a leash,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
    Red Heat (1988),red heat,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    A Simple Plan (1998),a simple plan,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
@@ -1368,6 +1689,7 @@ movie,processed_movie,Associated Music Genres
    American Gangster (2007),american gangster,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    The Treasure of the Sierra Madre (1948),the treasure of the sierra madre,"acoustic,indie,folk,ambient,piano,country,blues,bluegrass,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Love & Friendship (2016),love & friendship,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Rise of the Planet of Apes,rise of the planet of apes,
    The Last Song (2010),the last song,"acoustic,jazz,piano,folk,funk,blues,pop,romantic,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
    Breakfast at Tiffany's (1961),breakfast at tiffany's,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Margin Call,margin call,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
@@ -1380,38 +1702,59 @@ movie,processed_movie,Associated Music Genres
    Batman: Mask of the Phantasm,batman: mask of the phantasm,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Red Dragon (2002),red dragon,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
    After,after,"acoustic,piano,folk,ambient,children,pop,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,kids,world-music,alternative,upbeat,indie,fun"
+   Monster-In-Law (2005),monster-in-law,
    Warrior (2011),warrior,"acoustic,piano,punk,edm,dubstep,hard-rock,alternative,dance,pop,singer-songwriter,indie-pop,drum-and-bass,pump-up,hip-hop,rock,metal,electronic,indie"
    Meet Dave (2008),meet dave,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
    The Nutty Professor (1963),the nutty professor,"folk,ambient,romantic,pop,singer-songwriter,synthwave,synth-pop,electronic,retro,space,chill,r-n-b,indie,soul"
    The Peanut Butter Falcon,the peanut butter falcon,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    The Ugly Truth (2009),the ugly truth,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   Bir Zamanlar Anadolu'da (2011),bir zamanlar anadolu'da,
    Dune (1984),dune,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    The Huntsman: Winter's War,the huntsman: winter's war,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
+"   sex, lies, and videotape","sex, lies, and videotape",
    Tigerland (2000),tigerland,"acoustic,piano,punk,patriotic,soundtrack,singer-songwriter,rock,indie-pop,alternative,metal,world-music,indie"
    Get Carter (1971),get carter,"punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,chill,electronic"
    Highway (2002),highway,"piano,pop,indie-pop,folk,dubstep,singer-songwriter,grime,acoustic,reggae,trap,electronic,alternative,romantic,drum-and-bass,hip-hop,rock,r-n-b,indie,soul"
+   My Annoying Brother (2016),my annoying brother,
+   Sıfır Bir,sıfır bir,
    Capone (2020),capone,"acoustic,country,folk,reggae,piano,dubstep,pop,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
+   Zero Motivation (2014),zero motivation,
+"   Bagi, the Monster of Mighty Nature","bagi, the monster of mighty nature",
    English Vinglish,english vinglish,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    American Ultra (2015),american ultra,"punk,dubstep,hard-rock,drum-and-bass,rock,metal,electronic"
    Alien vs. Predator (2004),alien vs. predator,"acoustic,darkwave,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,dark-ambient,noise,new-age,rock,metal,world-music,electronic,industrial"
+   Taegukgi (2004),taegukgi,
+   Corpus Christi (Boże ciało; 2019),corpus christi,
    The Werewolf Game: The Villagers Side,the werewolf game: the villagers side,"darkwave,ambient,dubstep,synthwave,drum-and-bass,dark-ambient,noise,metal,chill,electronic,industrial"
+   Mystery Alaska,mystery alaska,
    Up in the Air (2009),up in the air,"ambient,synthwave,downtempo,dark-ambient,chill,electronic,trip-hop"
+   Hesher (2010),hesher,
    Words and Pictures,words and pictures,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Dolittle (2020),dolittle,"acoustic,folk,ambient,upbeat,children,pop,singer-songwriter,kids,new-age,alternative,world-music,rock,fun"
+   U-Turn (1997),u-turn,
    The Wrong Missy (2020),the wrong missy,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Extra Ordinary,extra ordinary,"darkwave,folk,ambient,metal,soundtrack,epic-fantasy,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
    2 Guns,2 guns,"punk,ambient,dubstep,hard-rock,synthwave,drum-and-bass,dark-ambient,rock,metal,chill,electronic"
+   Swiped,swiped,
    Submarine,submarine,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    In the Valley of Elah (2007),in the valley of elah,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
+   Velvet Goldmine (1998),velvet goldmine,
+   Wristcutters - A Love Story,wristcutters - a love story,
    Death Becomes Her (1992),death becomes her,"darkwave,folk,ambient,metal,soundtrack,epic-fantasy,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
+   Nebraska (2013),nebraska,
    Get Smart (2008),get smart,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Shaft,shaft,"punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,chill,electronic"
+   Shane (1953),shane,
    Birdy (1984),birdy,"acoustic,piano,punk,patriotic,soundtrack,singer-songwriter,rock,indie-pop,alternative,metal,world-music,indie"
+   Terms of Endearment (1983),terms of endearment,
    Benny & Joon (1993),benny & joon,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Double Impact ( 1991),double impact,"punk,reggae,dubstep,hard-rock,trap,drum-and-bass,grime,hip-hop,rock,metal,electronic"
    Drop Dead Fred (1991),drop dead fred,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
    The Fisher King ( 1991),the fisher king,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
+   A Civil Action (1998),a civil action,
    A Perfect Murder,a perfect murder,"acoustic,piano,reggae,ambient,dubstep,singer-songwriter,synthwave,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,dark-ambient,chill,electronic,indie"
+   Banlieue 13,banlieue 13,
+   There Was a Beautiful Woman (2004),there was a beautiful woman,
    The Duchess (2008),the duchess,"acoustic,country,folk,piano,ambient,classical,pop,epic,singer-songwriter,rock,indie-pop,world-music,opera,alternative,symphony,indie"
    Killshot (2008),killshot,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    La Vie en rose (2007),la vie en rose,"acoustic,country,folk,piano,jazz,funk,blues,pop,singer-songwriter,rock,indie-pop,hip-hop,alternative,r-n-b,indie,soul"
@@ -1420,18 +1763,27 @@ movie,processed_movie,Associated Music Genres
    Speed Racer (2008),speed racer,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Step Up (All Movies),step up,"jazz,piano,funk,pop,indie-pop,dubstep,singer-songwriter,grime,acoustic,reggae,trap,electronic,alternative,blues,drum-and-bass,hip-hop,rock,r-n-b,indie,soul"
    What Happens in Vegas (2008),what happens in vegas,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
+   The A-Team (2010),the a-team,
    Boy (2010),boy,"piano,pop,indie-pop,upbeat,folk,dubstep,singer-songwriter,kids,grime,acoustic,reggae,trap,electronic,fun,alternative,children,drum-and-bass,hip-hop,rock,indie"
+   Battle: Los Angeles (2011),battle: los angeles,
    As You Are,as you are,"acoustic,piano,chill,ambient,singer-songwriter,synthwave,rock,indie-pop,downtempo,alternative,dark-ambient,trip-hop,electronic,indie"
    Life of Pi (2012),life of pi,"acoustic,indie,folk,ambient,piano,epic-fantasy,singer-songwriter,soundtrack,indie-pop,new-age,alternative,world-music,rock"
+   The Incredible Burt Wonderstone (2013),the incredible burt wonderstone,
    Summer's Shadow (2014),summer's shadow,"acoustic,piano,folk,children,pop,singer-songwriter,rock,indie-pop,kids,alternative,upbeat,indie,fun"
    Hardcore Henry (Хардкор; 2015),hardcore henry,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
+   Belle Du Jour (1967),belle du jour,
    Patriots Day,patriots day,"acoustic,piano,punk,reggae,dubstep,hard-rock,alternative,singer-songwriter,trap,indie-pop,drum-and-bass,grime,hip-hop,rock,metal,electronic,indie"
    Mowgli: Legend of the Jungle ( 2018),mowgli: legend of the jungle,"acoustic,indie,folk,ambient,piano,epic-fantasy,singer-songwriter,soundtrack,indie-pop,new-age,alternative,world-music,rock"
    On the Basis of Sex,on the basis of sex,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
+   The Boy Who Would Be King (2019),the boy who would be king,
    Monos (2019),monos,"acoustic,indie,folk,ambient,piano,dubstep,chill,singer-songwriter,synthwave,indie-pop,drum-and-bass,new-age,alternative,dark-ambient,world-music,electronic,rock"
+   An Extremely Goofy Movie (2000),an extremely goofy movie,
+   The F**k-It list,the f**k-it list,
    Peter Rabbit (2018-2020),peter rabbit,"acoustic,folk,ambient,reggae,dubstep,trap,drum-and-bass,grime,hip-hop,new-age,alternative,world-music,electronic,rock"
+   Ölümlü Dünya (2018),ölümlü dünya,
    Where the wild things are,where the wild things are,"acoustic,indie,folk,ambient,piano,upbeat,children,pop,singer-songwriter,indie-pop,kids,new-age,alternative,world-music,rock,fun"
    Wild Tales (2014),wild tales,"acoustic,piano,ambient,dubstep,singer-songwriter,synthwave,rock,indie-pop,drum-and-bass,alternative,dark-ambient,chill,electronic,indie"
+   Dadnapped,dadnapped,
    Weird Science (1985),weird science,"folk,ambient,romantic,pop,singer-songwriter,synthwave,synth-pop,electronic,retro,space,chill,r-n-b,indie,soul"
    Once Upon A Forest,once upon a forest,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Invasion of the Body Snatchers (1978),invasion of the body snatchers,"darkwave,ambient,synth-pop,retro,synthwave,space,dark-ambient,noise,metal,chill,electronic,industrial"
@@ -1439,22 +1791,28 @@ movie,processed_movie,Associated Music Genres
    Beowulf,beowulf,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,drum-and-bass,new-age,rock,metal,world-music,electronic"
    The Man in the Iron Mask,the man in the iron mask,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,piano,singer-songwriter,indie-pop,drum-and-bass,new-age,rock,metal,world-music,electronic,indie"
    Pacific Rim (2013),pacific rim,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
+   All Day And A Night (2020),all day and a night,
    Endless Love (2014),endless love,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Demolition (2015),demolition,
    The Getaway (1972),the getaway,"punk,reggae,dubstep,hard-rock,ambient,synthwave,trap,drum-and-bass,dark-ambient,grime,hip-hop,rock,metal,chill,electronic"
    Mississippi Burning,mississippi burning,"piano,downtempo,indie-pop,dubstep,singer-songwriter,synthwave,grime,dark-ambient,trip-hop,acoustic,reggae,ambient,trap,chill,electronic,alternative,drum-and-bass,hip-hop,rock,indie"
    Velvet Buzzsaw (2019),velvet buzzsaw,"darkwave,chill,ambient,dubstep,synthwave,downtempo,drum-and-bass,dark-ambient,noise,metal,trip-hop,electronic,industrial"
+   El ciudadano ilustre,el ciudadano ilustre,
    Eat Drink Man Woman,eat drink man woman,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Ruby Sparks,ruby sparks,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
    The League of Extraordinary Gentlemen (2003),the league of extraordinary gentlemen,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Vanity Fair ( 2004 ),vanity fair,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
+   Les Choristes (2004),les choristes,
    The African Queen,the african queen,"acoustic,indie,folk,ambient,piano,romantic,pop,singer-songwriter,indie-pop,new-age,alternative,world-music,r-n-b,rock,soul"
    The Bucket List ( 2007),the bucket list,"acoustic,indie,folk,ambient,piano,singer-songwriter,indie-pop,new-age,alternative,world-music,rock"
    Freaks (1932),freaks,"acoustic,darkwave,piano,ambient,metal,singer-songwriter,rock,indie-pop,noise,alternative,dark-ambient,electronic,indie,industrial"
    Cashback,cashback,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Avatar (2009),avatar,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
    Gilda (1946),gilda,"acoustic,jazz,piano,soul,folk,blues,funk,romantic,pop,singer-songwriter,rock,indie-pop,jazz-noir,trumpet,alternative,r-n-b,indie,saxophone"
+   Di Bawah Umur (2020),di bawah umur,
    Turner & Hooch ( 1989 ),turner & hooch,"acoustic,piano,reggae,dubstep,singer-songwriter,trap,rock,indie-pop,drum-and-bass,grime,hip-hop,alternative,electronic,indie"
    The Scorpion King,the scorpion king,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,epic-fantasy,soundtrack,drum-and-bass,new-age,rock,metal,world-music,electronic"
+   Comrades: Almost a Love Story (1996),comrades: almost a love story,
    The Long Hair of Death (1964),the long hair of death,"darkwave,folk,ambient,metal,soundtrack,epic-fantasy,noise,alternative,dark-ambient,world-music,electronic,rock,industrial"
    Big ( 1988),big,"acoustic,piano,folk,ambient,epic-fantasy,singer-songwriter,soundtrack,rock,indie-pop,alternative,world-music,indie"
    Men of honor (2000),men of honor,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
@@ -1725,6 +2083,7 @@ movie,processed_movie,Associated Music Genres
    So I Married an Axe Murderer (1993),so i married an axe murderer,"folk,romantic,pop,singer-songwriter,r-n-b,indie,soul"
    Erin Brockovich (2000),erin brockovich,"acoustic,country,folk,piano,pop,singer-songwriter,rock,indie-pop,alternative,indie"
    Mr. Bean's Holiday (2007),mr. bean's holiday,"folk,children,pop,singer-songwriter,kids,upbeat,fun"
+   The Pirates! In an Adventure with Scientists! (2012),the pirates! in an adventure with scientists!,
    The Skeleton Twins (2014),the skeleton twins,"acoustic,piano,folk,romantic,pop,singer-songwriter,rock,indie-pop,alternative,r-n-b,indie,soul"
    Inception (2010),inception,"acoustic,folk,punk,ambient,dubstep,hard-rock,alternative,chill,synth-pop,retro,synthwave,drum-and-bass,space,new-age,rock,metal,world-music,electronic"
    A Single Man (2009),a single man,"piano,pop,indie-pop,folk,dubstep,singer-songwriter,grime,acoustic,reggae,trap,electronic,alternative,romantic,drum-and-bass,hip-hop,rock,r-n-b,indie,soul"
