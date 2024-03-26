@@ -7,7 +7,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import random
 from ast import literal_eval
+import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
+from config import CLIENT_ID, CLIENT_SECRET
 
+# Initialize Spotify client
+client_credentials_manager = SpotifyClientCredentials(client_id=CLIENT_ID,client_secret=CLIENT_SECRET)
+sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 # Load data and preprocess
 @st.cache_data
@@ -33,9 +39,19 @@ def regenerate_songs():
     random.seed(42)  # for reproducibility
     return top_200_songs.sample(n=15)[['song', 'artist']]
 
+
+def get_spotify_data(song_name, artist_name):
+    query = f"{song_name} {artist_name}"
+    results = sp.search(q=query, type='track', limit=1)
+    if results['tracks']['items']:
+        track = results['tracks']['items'][0]
+        return track['external_urls']['spotify'], track['album']['images'][0]['url']
+    else:
+        return None, None
+
 # Main function to run the app
 def main():
-    st.title('Song Recommendation App')
+    st.title('cine.fm')
     
     # Load data
     mov_df, song_df = load_data()
@@ -62,23 +78,32 @@ def main():
     global top_200_songs
     top_200_songs = song_df.iloc[top_200_indices]
 
-    # Randomly select 15 songs from the top 200
-    col1, col2 = st.columns([1, 10])
-    with col1:
-        if st.button("Regenerate"):
+    # Display Refresh icon
+    refresh_col, select_col = st.columns([1, 10])
+    with refresh_col:
+        if st.button("↻", help="Click to get a new set of songs", key="refresh"):
             rec_songs = regenerate_songs()
 
-    with col2:
+    # Display recommended songs as tiles
+    with select_col:
         st.subheader('Recommended Songs:')
         rec_songs = regenerate_songs()  # Initially display random songs
         for index, row in rec_songs.iterrows():
-            st.write(f"**{row['song']}** by {row['artist']}")
+            spotify_link, cover_url = get_spotify_data(row["song"], row["artist"])
+            st.write(
+                f"""
+                <div style='display: flex; align-items: center; padding: 10px; border-bottom: 1px solid lightgray;'>
+                    <img src='{cover_url}' style='width: 100px; height: 100px; object-fit: cover; border-radius: 5px;'>
+                    <div style='margin-left: 20px;'>
+                        <h3 style='margin: 0; padding: 0;'>{row["song"]}</h3>
+                        <p style='margin: 0; padding: 0; font-size: 14px; color: gray;'>by {row["artist"]}</p>
+                        <a href="{spotify_link}" target="_blank">Listen on Spotify</a>
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
 
-    # User input
-
-    # Display recommended songs
-    st.subheader('Recommended Songs:')
-    st.write(rec_songs)
 
 if __name__ == '__main__':
     main()
