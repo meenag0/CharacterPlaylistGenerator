@@ -29,6 +29,10 @@ def convert_to_list(emotion_str):
     return literal_eval(emotion_str)
 
 
+def regenerate_songs():
+    random.seed(42)  # for reproducibility
+    return top_200_songs.sample(n=15)[['song', 'artist']]
+
 # Main function to run the app
 def main():
     st.title('Song Recommendation App')
@@ -55,11 +59,20 @@ def main():
 
     # Extract top 200 similar songs
     top_200_indices = np.argsort(cosine_similarities[0])[::-1][:200]
+    global top_200_songs
     top_200_songs = song_df.iloc[top_200_indices]
 
     # Randomly select 15 songs from the top 200
-    random.seed(42)  # for reproducibility, remove this line if you want different results each time
-    rec_songs = top_200_songs.sample(n=15)[['song', 'artist']]
+    col1, col2 = st.columns([1, 10])
+    with col1:
+        if st.button("Regenerate"):
+            rec_songs = regenerate_songs()
+
+    with col2:
+        st.subheader('Recommended Songs:')
+        rec_songs = regenerate_songs()  # Initially display random songs
+        for index, row in rec_songs.iterrows():
+            st.write(f"**{row['song']}** by {row['artist']}")
 
     # User input
 
