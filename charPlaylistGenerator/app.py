@@ -10,10 +10,30 @@ from ast import literal_eval
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from config import CLIENT_ID, CLIENT_SECRET
+import requests
 
 # Initialize Spotify client
 client_credentials_manager = SpotifyClientCredentials(client_id=CLIENT_ID,client_secret=CLIENT_SECRET)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+OMDB_API_KEY = '5e1d3d2b'
+
+def fetch_movie_poster(title, year):
+    # Send a request to OMDB API
+    url = f'http://www.omdbapi.com/?apikey={OMDB_API_KEY}&t={title}&y={year}&r=json'
+    response = requests.get(url)
+    
+    # if the request was successful
+    if response.status_code == 200:
+        # Parse the JSON response
+        data = response.json()
+        
+        # Extract poster URL from the response
+        poster_url = data.get('Poster', None)
+        
+        return poster_url
+    else:
+        print('Failed to fetch movie details.')
+
 
 # Load data and preprocess
 @st.cache_data
@@ -59,6 +79,7 @@ def main():
     mov_df['Emotion Vector'] = mov_df['emotion_metrics'].apply(convert_to_dict).apply(calculate_emotion_vector)
     song_df['Emotion Vector'] = song_df['emotion_metrics'].apply(convert_to_dict).apply(calculate_emotion_vector)
 
+    
 
     selected_movie = st.selectbox('Select a movie:', mov_df['Title'])
 
@@ -84,6 +105,10 @@ def main():
         if st.button("↻", help="Click to get a new set of songs", key="refresh"):
             rec_songs = regenerate_songs()
 
+    selected_movie_year = mov_df.loc[mov_df['Title'] == selected_movie, 'Release Year'].values[0]
+
+    poster_url = fetch_movie_poster(selected_movie, selected_movie_year)
+    
     # Display recommended songs as tiles
     with select_col:
         st.subheader('Recommended Songs:')
