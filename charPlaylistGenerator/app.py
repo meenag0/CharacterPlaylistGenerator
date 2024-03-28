@@ -40,7 +40,7 @@ def fetch_movie_poster(title, year):
 def load_data():
     # Load movie and song data
     mov_df = pd.read_csv('movieEmotion.csv')
-    song_df = pd.read_csv('songEmotion.csv')
+    song_df = pd.read_csv('songEdited.csv')
     
     return mov_df, song_df
 
@@ -95,7 +95,7 @@ def main():
     cosine_similarities = cosine_similarity(selected_movie_vector_sparse, songs_sparse_matrix)
 
     # Extract top 200 similar songs
-    top_200_indices = np.argsort(cosine_similarities[0])[::-1][:200]
+    top_200_indices = np.argsort(cosine_similarities[0])[::-1][:400]
     global top_200_songs
     top_200_songs = song_df.iloc[top_200_indices]
 
