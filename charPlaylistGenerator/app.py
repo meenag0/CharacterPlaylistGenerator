@@ -40,7 +40,7 @@ def fetch_movie_poster(title, year):
 def load_data():
     # Load movie and song data
     mov_df = pd.read_csv('movieEmotion.csv')
-    song_df = pd.read_csv('songEdited.csv')
+    song_df = pd.read_csv('newSongEdited.csv')
     
     return mov_df, song_df
 
