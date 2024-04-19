@@ -8,7 +8,7 @@ import numpy as np
 from ast import literal_eval
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from config import CLIENT_ID, CLIENT_SECRET
+from charPlaylistGenerator.config import CLIENT_ID, CLIENT_SECRET
 import requests
 
 # Initialize Spotify client
