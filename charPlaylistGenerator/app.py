@@ -37,7 +37,7 @@ def fetch_movie_poster(title, year):
 
 
 # Load data and preprocess
-@st.cache
+@st.cache_data
 def load_data():
     dir = path.Path(__file__).absolute()
     # Assuming the data files are located in the same directory as the script
