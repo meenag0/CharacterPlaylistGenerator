@@ -8,11 +8,10 @@ import numpy as np
 from ast import literal_eval
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from config import CLIENT_ID, CLIENT_SECRET
 import requests
 
 # Initialize Spotify client
-client_credentials_manager = SpotifyClientCredentials(client_id=CLIENT_ID,client_secret=CLIENT_SECRET)
+client_credentials_manager = SpotifyClientCredentials(client_id='7e7d77f7542f4abc9c53da9e2b43b60d',client_secret='e058e36264b14cc795c0cbe41380d7af')
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 OMDB_API_KEY = '5e1d3d2b'
 
