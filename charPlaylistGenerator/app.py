@@ -5,17 +5,17 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy.sparse import csr_matrix
 import numpy as np
-import random
 from ast import literal_eval
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from .config import CLIENT_ID, CLIENT_SECRET
+from config import CLIENT_ID, CLIENT_SECRET
 import requests
 
 # Initialize Spotify client
 client_credentials_manager = SpotifyClientCredentials(client_id=CLIENT_ID,client_secret=CLIENT_SECRET)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 OMDB_API_KEY = '5e1d3d2b'
+
 
 def fetch_movie_poster(title, year):
     # Send a request to OMDB API
@@ -79,6 +79,7 @@ def get_spotify_data(song_name, artist_name):
     else:
         return None, None
 
+
 # Main function to run the app
 def main():
     global song_start_index
@@ -136,3 +137,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    import sys
+print(sys.path)
