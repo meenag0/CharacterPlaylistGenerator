@@ -38,7 +38,7 @@ Pages and Components:
 
 ### Backend
 - **Language**: Python
-- **Framework**: Flask
+- **Framework**: FastAPI
 
 Key Files:
 -----------------------------
