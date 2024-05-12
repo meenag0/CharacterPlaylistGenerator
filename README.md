@@ -1,46 +1,19 @@
 # CharacterPlaylistGenerator
 
+# Cine.fm
+--------------------------------
 
-# EcoTrackr
+This Python project generates personalized playlists based on movies and songs. It uses sentiment analysis to score song lyrics and movie descriptions and intelligently curates a unique playlist for each user.
 
-EcoTrackr
------------------------------
-EcoTrackr is a full-stack application that allows users to calculate their carbon footprint and provides location-based data through APIs. The app's objective is to empower individuals to make environmentally conscious decisions.
+## Features
+- **Movie and Music Playlists**: Generates personalized playlists based on the scores obtained from lyrics and movie descriptions.
+- **Sentiment Analysis**: Utilizes sentiment analysis to evaluate lyrics and descriptions for better playlist recommendations.
 
-## Repositories
------------------------------
-- [EcoTrackr Backend Repo](https://github.com/meenag0/Ecotrackr/tree/main)  
-- [EcoTrackr Frontend Repo](https://github.com/meenag0/Ecotrackr-Backend/tree/main)
-
-Features
------------------------------
-- **Carbon Footprint Calculator**: Estimates the user's carbon footprint based on various inputs.
-- **Location-Based Data**: Integrates APIs to deliver regional data.
-- **Profile and Progress Tracking**: Allows personalized profiles and progress tracking.
-
-Technology Stack
------------------------------
-### Frontend
-- **Language**: TypeScript, JavaScript
-- **Framework**: React
-
-Pages and Components:
------------------------------
-- `calc.tsx`: Main calculator logic and UI.
-- `energy.tsx`: Energy consumption-related component.
-- `food.jsx`: Food consumption-related component.
-- `shopping.tsx`: Shopping-related component.
-- `welcome.tsx`: Welcome screen.
-- `MapScreen.jsx`: Location-based information.
-- `HomeScreen.tsx`: Main landing page.
-- `ProfileScreen.tsx`: User profile page.
-- `ProgressScreen.tsx`: Displays progress tracking.
-
-### Backend
+## Technology Stack
 - **Language**: Python
-- **Framework**: FastAPI
+- **Tools/Libraries**: Jupyter Notebook, Pandas, scikit-learn, Numpy, NLTK, Tensorflow, Streamlit, Spotipy, Genius API, OMNI API, Spotify API, Hugging Face Transformers
 
-Key Files:
------------------------------
-- `main.py`: Main server file.
-- `calc.py`: Logic to compute carbon footprint.
+## Project Files
+- **`app.py`**: Main application file handling the backend logic. Integrates with Spotify and OMDB APIs to fetch data, uses sentiment scores to generate playlists, and provides a user interface with Streamlit.
+- **`moviePlaylist.ipynb`**: Manages and generates movie-based playlists. It likely includes interactive features for selecting movies and visualizations of movie data.
+- **`sentAnalysis.ipynb`**: Analyzes the sentiment of lyrics and movie descriptions. Includes preprocessing of textual data, sentiment scoring, and visual interpretation of results.
