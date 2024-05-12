@@ -1,7 +1,6 @@
 # CharacterPlaylistGenerator
 
 # Cine.fm
---------------------------------
 
 This Python project generates personalized playlists based on movies and songs. It uses sentiment analysis to score song lyrics and movie descriptions and intelligently curates a unique playlist for each user.
 
