@@ -1,7 +1,6 @@
 import base64
 import requests
 
-# Define your client ID and client secret
 client_id = 'ab40b0aafd37487aad33f9ef64528550'
 client_secret = 'cdffb049db714ff48b130314b896daf8'
 

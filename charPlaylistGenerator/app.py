@@ -40,9 +40,8 @@ def fetch_movie_poster(title, year):
 @st.cache_data
 def load_data():
     dir = path.Path(__file__).absolute()
-    # Assuming the data files are located in the same directory as the script
     data_dir = dir.parent
-    # Load movie and song data
+
     mov_df = pd.read_csv(data_dir / 'movie.csv')
     song_df = pd.read_csv(data_dir / 'final4real.csv')
     return mov_df, song_df
